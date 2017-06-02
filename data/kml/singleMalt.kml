@@ -2976,11 +2976,17 @@ J&Bのメイン原酒。</br>
 			</LookAt>
 			<styleUrl>#msn_whiskyIcon</styleUrl>
 			<Point>
-				<extrude>1</extrude>
 				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-6.361905511153625,55.76593673903401,100000</coordinates>
+				<coordinates>-6.861905511153625,55.76593673903401,100000</coordinates>
 			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.861905511153625,55.76593673903401,100000 -6.361905511153625,55.76593673903401,0</coordinates>
+			</LineString>
 		</Placemark>
 		<Placemark>
 			<TimeSpan>
@@ -3115,11 +3121,17 @@ J&Bのメイン原酒。</br>
 			</LookAt>
 			<styleUrl>#msn_whiskyIcon</styleUrl>
 			<Point>
-				<extrude>1</extrude>
 				<altitudeMode>relativeToGround</altitudeMode>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-6.361905511153625,55.76593673903401,100000</coordinates>
+				<coordinates>-5.861905511153625,55.76593673903401,100000</coordinates>
 			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.861905511153625,55.76593673903401,100000 -6.361905511153625,55.76593673903401,0</coordinates>
+			</LineString>
 		</Placemark>
 		<Placemark>
 			<TimeSpan>
