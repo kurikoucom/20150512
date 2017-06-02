@@ -250,14 +250,11 @@
 			changeViewPoint(0, 3);
 			//オーバレイを追加
 			openStreetMapLayer();
-			//setTimeout('landing()', 4000);
+			setTimeout('fadeInOut(blackOutDiv,1)', 5000);
 			setTimeout('loadKml()', 4000);
 		}
-
-		/*
+/*
 		function landing() {
-			//視点を移動：視点番号，デュレーション
-			changeViewPoint(0, 3);
 			//ローディングGIFを表示
 			setTimeout('fadeInOut(blackOutDiv,1)', 3000);
 			setTimeout('loadKml()', 3000);
