@@ -2981,6 +2981,9 @@ J&Bのメイン原酒。</br>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<TimeSpan>
+				<begin>1881-01-01T00:00:00Z</begin>
+			</TimeSpan>
 			<styleUrl>#msn_whiskyIcon</styleUrl>
 			<LineString>
 				<tessellate>0</tessellate>
@@ -3126,6 +3129,9 @@ J&Bのメイン原酒。</br>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<TimeSpan>
+				<begin>1881-01-01T00:00:00Z</begin>
+			</TimeSpan>
 			<styleUrl>#msn_whiskyIcon</styleUrl>
 			<LineString>
 				<tessellate>0</tessellate>
