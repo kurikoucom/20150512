@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>singleGrain.kml</name>
+	<Style id="sn_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_whiskyIcon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_whiskyIcon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_whiskyIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon3.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>singleGrain</name>
+		<Placemark>
+			<name>駒ヶ岳</name>
+			<description><![CDATA[<CENTER><img src = "https://www.hombo.co.jp/item/whisky_brandy/puremalt_whisky/img/itemdetail_pht.jpg" width = "200" height = "200"/></CENTER>
+				<h2>
+　標高798m、中央アルプスの駒ヶ岳山麓・信州マルス蒸留所で造られる。</br>
+熟した果実を想わせるフルーティーなアロマと、深みのあるシェリー香が上品に調和した長期熟成モルトウイスキー。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・モルテージ駒ヶ岳　ピュアモルトウイスキー</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>137.9008593997112</longitude>
+				<latitude>35.74733929945441</latitude>
+				<altitude>0</altitude>
+				<heading>-1.687188841875951e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000102143141</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.9008593997112,35.74733929945441,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ニッカ カフェグレーン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.musashiya-net.co.jp/upload/save_image/05021053_5181c71f72e19.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　世界でも稀少な”カフェ式連続式蒸溜機”を持つニッカウヰスキー。</br>
+蒸溜効率は落ちるものの原料由来の香りや成分がしっかりと残るカフェ式で造られたグレーンウイスキーは、非常に味わい深い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ニッカ　カフェグレーン</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>140.649740099929</longitude>
+				<latitude>38.31200869989288</latitude>
+				<altitude>0</altitude>
+				<heading>-4.402841845549946e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000019842127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.149740099929,38.31200869989288,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.149740099929,38.31200869989288,100000 140.649740099929,38.31200869989288,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>知多</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://images-na.ssl-images-amazon.com/images/G/09/aplusautomation/vendorimages/6c3c6ea5-2799-4547-978e-38c76ea77292.jpg._CB524677155__SL300__.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　主にブレンデッド用として作られていたが、研究を重ねることでシングルグレーンとして発売することに。</br>
+すっきりとした味わいは女性にも好評。</br>
+熟成12年を超えるグレーン原酒を厳選して瓶詰め。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・知多</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>136.8514870003045</longitude>
+				<latitude>35.00528400047696</latitude>
+				<altitude>0</altitude>
+				<heading>1.746792436606578e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000014357908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.8514870003045,35.00528400047696,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>シングルグレーンウイスキー</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://livedoor.blogimg.jp/newsact/imgs/6/1/617b1464.jpg" width = "59.2" height = "200"/>
+</CENTER>
+<h2>
+　独自に開発した特別なバッチ式蒸溜器を用いることで、風味豊かで味わい深い原酒に。</br>
+グレーンウイスキーの長期熟成原酒は世界的にも珍しく、27年シングルカスクを限定品としてリリース。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・富士御殿場蒸溜所　シングルグレーンウイスキー27年シングルカスク</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>138.8972912006656</longitude>
+				<latitude>35.33793790024215</latitude>
+				<altitude>0</altitude>
+				<heading>3.849966025271143e-010</heading>
+				<tilt>0</tilt>
+				<range>999.9999873517511</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>138.3972912006656,35.33793790024214,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>138.3972912006656,35.33793790024214,100000 138.8972912006656,35.33793790024214,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+	</Folder>
+</Document>
+</kml>

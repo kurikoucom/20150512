@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>bourbon.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon5.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>./whiskyIcon/icon5.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>bourbon</name>
+		<open>1</open>
+		<Placemark>
+			<name>ジムビーム</name>
+			<description><![CDATA[<h1>世界シェアの約41％を占めるNo.1バーボン</h1>
+<CENTER>
+<img src = "http://cdn.liquor.com/wp-content/uploads/2014/12/Jim-Beam-Orig1.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アメリカ・ケンタッキー州で生まれたジムビームは、現在世界シェア約41％とバーボンの売上世界一を誇る。</br>
+厳選された良質なコーン、大麦、ライ麦と石灰岩層で濾過された水「ライムストーンウォーター」、200年以上にわたって守られてきた門外不出の秘伝レシピが豊かな味わいを作りだ出す。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ジムビーム</br>
+・ジムビームブラックラベル</br>
+・ジムビームハニー</br>
+・ジムビームプレミアム</br>
+・ジムビームライ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.65278016357073</longitude>
+				<latitude>37.93127289628939</latitude>
+				<altitude>0</altitude>
+				<heading>-1.372154268541747e-007</heading>
+				<tilt>0</tilt>
+				<range>1107.59455574858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.65278016357073,37.93127289628939,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>メーカーズマーク</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.asherbws.com/wp-content/uploads/2013/12/49750_0_9999_v1_m5657756984896548413871917563431.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　他のバーボンには見られないまろやかさが特徴。</br>
+1959年から始まったレッド・トップ（赤い蝋の封）で一世を風靡、現在でもその斬新なデザインは唯一無二のものとなっている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・メーカーズマーク　レッド</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.3495072416238</longitude>
+				<latitude>37.64811009688282</latitude>
+				<altitude>0</altitude>
+				<heading>6.826145816721182e-009</heading>
+				<tilt>0</tilt>
+				<range>1045.876572777095</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.34950724162378,37.64811009688282,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>アーリータイムズ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://thumbnail.image.rakuten.co.jp/@0_gold/wineuki/rakuraku/images/images/syouhin2/9903000014934i.jpg" width = "125.2" height = "200"/>
+</CENTER>
+<h2>
+　バーボンの代表格として世界中の人々に愛されているロングセラーバーボン。</br>
+1996年、日本向けに開発された「ブラウン」はより豊かなコク、華やかな香りを楽しむことができる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アーリータイムズ　イエローラベル</br>
+・アーリータイムズ　ブラウンラベル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-106.651941308616</longitude>
+				<latitude>35.08447795611886</latitude>
+				<altitude>0</altitude>
+				<heading>-3.595865309687394e-008</heading>
+				<tilt>0</tilt>
+				<range>1060.69502296488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.651941308616,35.08447795611885,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ウッドフォード・リザーブ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://images-na.ssl-images-amazon.com/images/I/61ZqwDQf4IL._SX385_.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ケンタッキー州最古の蒸留所である。</br>
+マスターディスティラーが造りだす、他のバーボンとは異なる、果実を思わせる香りが特徴のスモールバッチバーボン。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ウッドフォード・リザーブ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-84.81081053722343</longitude>
+				<latitude>38.11308309464393</latitude>
+				<altitude>0</altitude>
+				<heading>-1.204274490217296e-009</heading>
+				<tilt>0</tilt>
+				<range>1007.180290151027</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-84.81081053722343,38.11308309464393,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>エヴァン・ウィリアムズ</name>
+			<description><![CDATA[<h1>世界第2位の販売量を誇るケンタッキーバーボン</h1>
+<CENTER>
+<img src = "https://www.kegnbottle.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/v/evan175.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　バーボンの父、エライジャ・クレイグと同時代に生き、バーボンの蒸留を始めた先駆者の1人、エヴァン・ウィリアムスの名を冠したラインアップ。</br>
+焦がしたオール樽で寝かせるため、独特の香ばしさがあり、バーボンらしい骨太な味わいが特徴的。</br>
+シングルバレルは推して知るべしである。</br>
+ケンタッキーバーボンでは世界第2位の販売量を誇る。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・エヴァン・ウィリアムスブラックラベル</br>
+・エヴァン・ウィリアムス12年</br>
+・エヴァン・ウィリアムス23年</br>
+・エヴァン・ウィリアムスシングルバレル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.46392399946328</longitude>
+				<latitude>37.79472340031809</latitude>
+				<altitude>0</altitude>
+				<heading>3.288880398220812e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000020224516</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.46392399946326,37.79472340031808,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>フォアローゼズ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://uds.gnst.jp/rest/img/2eurcykg0000/s_0071.jpg?t=1453282968" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　香りの異なる10の原酒を絶妙に作り上げ、それらをブランドしたなめらかな味わいが特徴。</br>
+日本でも抜群の知名度を誇る「薔薇のウイスキー」は雰囲気たっぷりのロマンチックなバーボン。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・フォアローゼズ</br>
+・フォアローゼズ　ブラック</br>
+・フォアローゼズ　プラチナ</br>
+・フォアローゼズシングルバレル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-84.89790399991433</longitude>
+				<latitude>37.97361099997434</latitude>
+				<altitude>0</altitude>
+				<heading>5.268151503575614e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000003393904</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-84.89790399991435,37.97361099997434,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ワイルドターキー</name>
+			<description><![CDATA[<h1>独自の製法を守り続ける、妥協のないバーボン</h1>
+<CENTER>
+<img src = "https://img.tesco.com/Groceries/pi/012/8000040500012/IDShot_540x540.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　オースティン・ニコルズ社が禁酒法解禁以降に興したブランド。</br>
+蒸留所オーナーが七面鳥狩りに持参した際、持参したウイスキーが好評だったことから現在の呼び名に。</br>
+一般のバーボンより低めの蒸留度数、最低限の加水、昔ながらのイトスギ材発酵槽を使用などこだわりの工程が生み出す芳醇な風味が特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ワイルドターキースタンダード</br>
+・ワイルドターキー8年</br>
+・ワイルドターキー13年</br>
+・ワイルドターキーレアブリード</br>
+・ワイルドターキーフォーギヴン</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-84.85300040025571</longitude>
+				<latitude>38.04356130009519</latitude>
+				<altitude>0</altitude>
+				<heading>-1.575805816931099e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000018761507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-84.85300040025571,38.04356130009519,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ブラントン</name>
+			<description><![CDATA[<h1>元祖シングルバレル・バーボン</h1>
+<CENTER>
+<img src = "https://img.thewhiskyexchange.com/540/brbon_bla1.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　各品評会でも高い評価を受ける、時間と手間を惜しまず造りあげた至高のバーボンウイスキー。</br>
+ラベルにはシングルバレルを示す樽ナンバーや、瓶詰め日などが記載されている。</br>
+どこまでも芳醇で濃密な味わいは唯一無二の存在。</br>
+"Blanton's"のイニシャルに合わせて8種類あるボトルキャップを眺めるのも楽しい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブラントン</br>
+・ブラントンブラック</br>
+・ブラントンストレートフロム・ザ・バレル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-84.87088940004847</longitude>
+				<latitude>38.21669159967441</latitude>
+				<altitude>0</altitude>
+				<heading>-2.996837891675481e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00001633323</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-84.87088940004847,38.21669159967441,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ジャックダニエル</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.kakuyasu.co.jp/ec/images/goods/230320-b.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　時間のかかるチャコールメローイング製法で一滴一滴濾過した、まろやかで均整のとれたウイスキー。</br>
+バニラ、キャラメル等の良い香りとまろやかでバランスのとれた味わいが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ジャックダニエル　ブラック</br>
+・ジャックダニエル　テネシーハニー</br>
+・ジャックダニエル　ジェントルマンジャック</br>
+・ジャックダニエル　シングルバレル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-86.37018150023063</longitude>
+				<latitude>35.28369560003362</latitude>
+				<altitude>0</altitude>
+				<heading>-1.332310501904956e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000008491128</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-86.37018150023063,35.28369560003362,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>クレメンタイン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://pocyomukin.files.wordpress.com/2011/04/clementine-8year1.jpg?w=240" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　バーボンの中でも甘口なテイスト、かつ50.5度という高いアルコール度からくる重いボディが特徴。</br>
+ほのかに香るバニラ香がよく、クセも少ない飲みやすい逸品。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・クレメンタイン8年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.47775850002194</longitude>
+				<latitude>37.80486350036757</latitude>
+				<altitude>0</altitude>
+				<heading>-1.343506054383708e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000011151822</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.47775850002194,37.80486350036757,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ウィレット</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://spiritedgifts.com/media/catalog/product/w/i/willett-500x500.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　2012年、約40年ぶりに再稼働し復活をとげたウィレット蒸留所。以前稼働していた際の残りの原酒と他者からの供給により瓶詰、複雑な味わいが楽しめる稀少な1本。</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ウィレット　ファミリーエステート　9年　シングルバレル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.4605758000066</longitude>
+				<latitude>37.78506290003453</latitude>
+				<altitude>0</altitude>
+				<heading>-4.070314853602935e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.00000214725</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.46057580000658,37.78506290003453,100000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

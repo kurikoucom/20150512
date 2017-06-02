@@ -1,0 +1,3359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>singleMalt.kml</name>
+	<Style id="sh_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+			<width>1</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_whiskyIcon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_whiskyIcon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_whiskyIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+			<width>1</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>singleMalt</name>
+		<Placemark>
+			<TimeSpan>
+				<begin>1934-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>余市</name>
+			<description><![CDATA[<h1>「石炭直火蒸溜」由来の力強く重厚な味わい</h1>
+			<CENTER><img src = "https://www.stock-lab.com/liquor/wp/wp-content/uploads/2015/12/61pwaoH4oQL._SL1000_.jpg" width = "200" height = "200"/></CENTER>
+<h2>　スコットランドに近い環境でウイスキー造りをするために、竹鶴政孝が立ち上げたのが余市蒸留所。</br>
+1936年操業を開始し、初出荷されたのが1940年。本場に近い風土気候で蒸溜・貯蔵される余市は、シングルモルトらしい重厚さと深い余韻が特徴的。</br>
+スコットランドにも残っていない伝統的な「石炭直火蒸溜」で蒸溜されている。</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・シングルモルト余市</br>
+・シングルモルト余市　10年</br>
+・シングルモルト余市　12年</br>
+・シングルモルト余市　15年</br>
+・シングルモルト余市　20年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>140.7928315348283</longitude>
+				<latitude>43.18583602901389</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001504524031555258</heading>
+				<tilt>0</tilt>
+				<range>999.7209957182588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.2926292988072,43.18554558183266,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1969-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>宮城峡</name>
+			<description><![CDATA[<h1>
+冷涼な気候で育まれたまろやかな味わい
+</h1>
+<CENTER><img src = "https://images-fe.ssl-images-amazon.com/images/I/61vwEuXZPLL._SX425_.jpg" width = "200" height = "200"/></CENTER>
+<h2>
+　北海道の余市蒸溜所がハイランドなら、宮城峡はローランドにあたるといわれている。</br>
+重厚で骨太な味わいはニッカウヰスキーのDNAだが、宮城峡はフルーティーな華やかさが特徴。</br>
+ウイスキーの優しさ、心地よさを教えてくれる柔らかな逸品となっている。</br>
+余市と併せて飲むことで、2つの蒸溜所の企図がより明確に分かる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・シングルモルト宮城峡</br>
+・シングルモルト宮城峡10年</br>
+・シングルモルト宮城峡12年</br>
+・シングルモルト宮城峡15年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>140.649740099929</longitude>
+				<latitude>38.31200869989288</latitude>
+				<altitude>0</altitude>
+				<heading>-4.401569623677361e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000011610657</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.649740099929,38.31200869989288,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon0</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.149740099929,38.31200869989288,100000 140.649740099929,38.31200869989288,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1923-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>山崎</name>
+			<description><![CDATA[<h1>日本独特の繊細な味わいを追求</h1>
+			<CENTER><img src = "https://images-na.ssl-images-amazon.com/images/G/09/aplusautomation/vendorimages/59f5e16a-19ae-45a9-8249-f1f4182dd01b.jpg._CB311788753__SR300,300_.jpg" width = "200" height = "200"/></CENTER>
+<h2>
+　「山崎」の歴史は日本初のモルト蒸溜所が開設された1923年に遡る。</br>
+千利休も愛したと言われる「離宮の水」を使い、日本独特のミズナラの樽で仕込むなど、工夫と努力を積み重ね、1984年に初めて「山崎」の名を冠したウイスキーが誕生した。</br>
+日本人の味覚に合わせたその繊細な味と香りは世界中の愛好者から「高貴」と称される。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・山崎</br>
+・山崎12年</br>
+・山崎18年</br>
+・山崎25年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>135.6743798449125</longitude>
+				<latitude>34.89236573232964</latitude>
+				<altitude>0</altitude>
+				<heading>-2.115975321257456e-009</heading>
+				<tilt>0</tilt>
+				<range>1007.165462462311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.6743798449125,34.89236573232964,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1973-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>白州</name>
+			<description><![CDATA[<h1>「森の蒸溜所」で作られたウイスキー</h1>
+			<CENTER><img src = "https://images-na.ssl-images-amazon.com/images/G/09/aplusautomation/vendorimages/e2cd729e-3fda-4fd2-822a-7bce69c0a07b.jpg._CB524662910__SL300__.jpg" width = "200" height = "200"/></CENTER>
+<h2>
+　白州が「森のシングルモルト」の異名を取るのは蒸溜所が森林に囲まれているためだ。</br>
+標高が高く、寒冷な気候で熟成が早い。そしてマザーウォーターは上質の軟水。</br>
+こうした自然環境が、クリアな味わいとスムージィな舌触りという白州の特徴を作り出している。</br>
+ピートの香りは海を連想させるが、白州の香りには森の木々が垣間見える。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・白州</br>
+・白州12年</br>
+・白州18年</br>
+・白州25年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>138.3005342799123</longitude>
+				<latitude>35.82676410497587</latitude>
+				<altitude>0</altitude>
+				<heading>1.994172799176129e-009</heading>
+				<tilt>0</tilt>
+				<range>1031.137684398645</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.3005342799123,35.82676410497587,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1972-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>富士山麓</name>
+			<description><![CDATA[<h1>豊かな香りとなめらかな口当たり</h1>
+			<CENTER><img src = "http://www.kakuyasu.co.jp/ec/images/goods/41021-b.jpg" width = "200" height = "200"/></CENTER>
+<h2>
+　「澄んだ味わいの中に広がる甘い樽熟香」をもつウイスキーを造ることを目標に、設立された富士御殿場蒸溜所。</br>
+豊かな水とウイスキー造りに適した自然環境を有する富士の裾野で、ゆっくり熟成されるシングルモルトは、豊かな香りとなめらかな口当たり、やわらかな味わいが特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・富士山麓　シングルモルト18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>138.8972912005663</longitude>
+				<latitude>35.33793790005374</latitude>
+				<altitude>0</altitude>
+				<heading>3.275462433158389e-010</heading>
+				<tilt>0</tilt>
+				<range>999.9999825503869</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.8972912005663,35.33793790005374,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1888-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>あかし</name>
+			<description><![CDATA[<h1>兵庫県・明石市のシングルモルト</h1>
+			<CENTER><img src = "http://www.ei-sake.jp/onlineshop/img/whiskey_s_akashi.jpg" width = "112" height = "200"/></CENTER>
+<h2>
+　兵庫県明石市の江井ヶ嶋酒造は1919年にウイスキー製造免許を取得、以降日本においてウイスキー造りを長年行ってきた。</br>
+英国から取り寄せた大麦麦芽と、清酒用仕込水である地下水を使用。</br>
+リーズナブルな価格ながら、まろやかで上質なウイスキーを作り続けている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ホワイトオークシングルモルトあかし</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>134.906016826456</longitude>
+				<latitude>34.68108560415378</latitude>
+				<altitude>0</altitude>
+				<heading>1.297030199100822e-011</heading>
+				<tilt>0</tilt>
+				<range>1004.21891344178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>134.906016826456,34.68108560415378,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>2004-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>イチローズモルト</name>
+			<description><![CDATA[<CENTER><img src = "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-claude/cabinet/whisky7/ichirothepeated.jpg?_ex=450x450&s=2&r=1" width = "133.3" height = "200"/></CENTER>
+				<h2>
+　2008年～2010年の原酒を使用した「ON THE WAY」、スモークベーコンや焚火を思わせるような「THE PEATED」など、少量生産の限定品を定期的にリリース。</br>
+国内外を問わず注目度が高い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・秩父 ON THE WAY</br>
+・秩父 THE PEATED</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.0543534125786</longitude>
+				<latitude>36.04656414953963</latitude>
+				<altitude>0</altitude>
+				<heading>-2.47419101725571e-008</heading>
+				<tilt>0</tilt>
+				<range>1052.62363555991</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0543534125786,36.04656414953963,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ベンロマック</name>
+			<description><![CDATA[<h1>小規模蒸留所でつくられる高品位モルト</h1>
+				<CENTER>
+<img src = "https://www.jisys.co.jp/content/24/160/php9VL6b0.jpg" width = "200" height = "200" />
+</CENTER>
+<h2>
+　ベンロマックはスペイサイドでもっとも小さな蒸留所。</br>
+蒸留作業をしているのはわずか2名という規模だが、逆にほかではできない限定ボトルの発売などユニークな取り組みをすることでも知られる。</br>
+シェリー樽とバーボン樽で熟成した後、オロロソ・シェリー樽にてフィニッシュ。</br>
+ピート＆シェリーの融和が絶妙。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+ベンロマック10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.619740006799117</longitude>
+				<latitude>57.61356423383046</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002257051404344835</heading>
+				<tilt>23.50606791455192</tilt>
+				<range>314.2529799383464</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.620027411275784,57.61360600088194,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンエルギン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://shop.whiskybase.com/images/whiskies/327.jpg" width = "100" height = "200" />
+</CENTER>
+<h2>
+　1898年、ウイスキーブームの後期に創業、スペイサイドで19世紀に建設された最後の蒸留所。</br>
+スペイサイド特有のスムースでメローな蜂蜜にも似た甘さが特徴。</br>
+ホワイトホースの原酒のひとつとしても有名。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンエルギン12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.277235557722483</longitude>
+				<latitude>57.59877700208249</latitude>
+				<altitude>0</altitude>
+				<heading>0.002212542057793461</heading>
+				<tilt>25.31761060650582</tilt>
+				<range>495.9387242472005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.277445688958215,57.59874848073239,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1876-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンロッシー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.malts.com/media/3070912/glenlossie_singlemalt_10year.jpg" width = "80" height = "200" />
+</CENTER>
+<h2>
+　1876年に設立。すっきりとした味わいでディンプルに使われる原酒としても知られている。</br>
+マノックヒルを水源とするバードン川の水を利用。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンロッシ―10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.319290600034277</longitude>
+				<latitude>57.59867119996703</latitude>
+				<altitude>0</altitude>
+				<heading>-2.867747128541579e-011</heading>
+				<tilt>0</tilt>
+				<range>1235.38216299257</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.319290600034277,57.59867119996702,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1971-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>マノックモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/mnmff.12yo.jpg" width = "150" height = "200" />
+</CENTER>
+<h2>
+　マノックモアとはゲール語で「大きな丘」の意。</br>
+1971年、グレンロッシ―蒸留所の敷地内に第2蒸留所として建設。</br>
+グレンロッシ―同様、ディンプルの原酒に使用されている。
+</h2>
+<h3>シリーズ</h3>
+<p>
+・マノックモア12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.316925299873543</longitude>
+				<latitude>57.60176119990836</latitude>
+				<altitude>0</altitude>
+				<heading>1.071349965984227e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000135117205</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.311762756598171,57.60082104762136,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1821-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>リンクウッド</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/540/lkwff.12yo.jpg" width = "540 / 72 * 20" height = "720 / 72 * 20" />
+</CENTER>
+<h2>
+　1821年設立。99％の原酒がジョニーウォーカーやホワイトホースなどのブレンド用として重要な役割を果たしている。</br>
+優しい口当たりでブレンダ―にも人気が高い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・リンクウッド12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.282706599998411</longitude>
+				<latitude>57.62934859973504</latitude>
+				<altitude>0</altitude>
+				<heading>1.555688808570842e-012</heading>
+				<tilt>0</tilt>
+				<range>1234.244526863879</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.282706599998411,57.62934859973504,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ベンリアック</name>
+			<description><![CDATA[<h1>少量生産ながら多様なラインナップを誇る銘酒</h1>
+			<CENTER>
+<img src = "http://image.rakuten.co.jp/ledled/cabinet/product_detail/hrc/smw/3-benriach-i.jpg" width = "78.7" height = "200" />
+</CENTER>
+<h2>
+　ベンリアックはブレンデッドの原酒として長きにわたり使用されてきたため、自社ボトリングは1994年と実に遅い。</br>
+そのため以前は入手が困難であったが、近年リリースが加速している勢いのあるモルト。</br>
+また、1983年からは当時のスペイサイドの蒸留所としては極めて革新的にピーティータイプのシングルモルトの製造を開始している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ベンリアック12年</br>
+・ベンリアック16年</br>
+・ベンリアック20年</br>
+・ベンリアック12年　シェリーウッド</br>
+・ベンリアック　キュオリアシタス10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.289713305835172</longitude>
+				<latitude>57.61094440725272</latitude>
+				<altitude>0</altitude>
+				<heading>0.02358525448666488</heading>
+				<tilt>29.90628197568147</tilt>
+				<range>587.8844684775453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.291829885325667,57.61117362030849,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1893-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ロングモーン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/thumbnail/1000x/9df78eab33525d08d6e5fb8d27136e95/l/o/longmorn-16-year-old-single-malt-scotch-whisky-2.jpg" width = "200" height = "200" />
+</CENTER>
+<h2>
+　ロングモーンとはゲール語で「聖人の場所」という意味。</br>
+蒸留所が建てられた場所にはチャペルがあったといわれ、その語源となっている。</br>
+日本では竹鶴政孝が修業した蒸留所のひとつとしても知られる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ロングモーン16年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.28226210002762</longitude>
+				<latitude>57.60843449994169</latitude>
+				<altitude>0</altitude>
+				<heading>-2.316318460642842e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000120572787</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.28226210002762,57.60843449994169,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1897-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンマレイ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/453951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150"height = "200" />
+</CENTER>
+<h2>
+　1897年設立。グレンモーレンジィの姉妹蒸留所で、白ワイン樽を熟成樽に使用したことで知られる。</br>
+蒸留所の場所はかつて処刑所だったという逸話も。</br>
+麦芽の香りとともに、フルーティーでドライな風味が広がる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンマレイ12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.345108600452112</longitude>
+				<latitude>57.64350459984803</latitude>
+				<altitude>0</altitude>
+				<heading>-3.817003551691127e-010</heading>
+				<tilt>0</tilt>
+				<range>2467.552020034429</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.341215741953327,57.64466194866263,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1786-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ストラスアイラ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/387449.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200" />
+</CENTER>
+<h2>
+　1786年創業というスペイサイド最古の蒸留所。</br>
+シーバスリーガルのキーモルトの1つで、"Home of Chigas"と呼ばれる。</br>
+シェリーの効いたリッチでなめらかな口当たり。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ストラスアイラ12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.954254599977638</longitude>
+				<latitude>57.54650379999059</latitude>
+				<altitude>0</altitude>
+				<heading>1.881894448088445e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000100265309</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.954046542595275,57.54682087353996,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1891-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ストラスミル</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/strff.12yo.jpg" width = "150" height = "200" />
+</CENTER>
+<h2>
+　1891年設立当時はグレンアイラ蒸留所と呼ばれていたが、ジンで有名なギルビー社の手に渡り現在の名前に。</br>
+J&Bのキーモルトで、そのほとんどがブレンデッド用の原酒として使われるため、シングルモルトとして出回ることは非常に稀。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ストラスミル12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.961395899976466</longitude>
+				<latitude>57.53987840014785</latitude>
+				<altitude>0</altitude>
+				<heading>2.013251356432888e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000126653898</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.961395899976465,57.53987840014784,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1878-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンロセス</name>
+			<description><![CDATA[<h1>ブレンダ―の評価も高いエレガントな銘酒</h1>
+			<CENTER>
+<img src = "http://www.oaksliquors.com/product_images/img_207_1.jpg" width = "133.3" height = "200" />
+</CENTER>
+<h2>
+　ブレンデッド用の原酒として重宝され、「トップ・ドレッシング・モルト」と評される。</br>
+大きなポットスチルでゆっくり蒸留することによりエレガントかつフルーティーな味わいに。</br>
+スペイサイドの蒸留所の中でも個性的な存在であり、手書きのラベルやヴィンテージ表記で確かな品質を保証している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンロセス1988</br>
+・グレンロセスセレクトリザーヴ</br>
+・グレンロセス1998</br>
+・グレンロセス1995</br>
+・グレンロセス1991</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.210499100101144</longitude>
+				<latitude>57.52654059982241</latitude>
+				<altitude>0</altitude>
+				<heading>-8.514782208546534e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000074301191</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.214156870970466,57.52626125550717,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1871-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>インチガワ―</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.celticwhiskeyshop.com/image/data/Whiskey/Inchgower-14-Year-Old.jpg" width = "132" height = "200" />
+</CENTER>
+<h2>
+　ベルのメイン原酒としても知られる1本。</br>
+東ハイランドとの境界線にあり、その特徴が強い。</br>
+2009年にローズアイル蒸留所が出来るまではスペイサイド最北の蒸留所だった。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・インチガワ―14年　花と動物</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.963884199844778</longitude>
+				<latitude>57.66179969983273</latitude>
+				<altitude>0</altitude>
+				<heading>1.309796150453546e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000070009246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.963884199844778,57.66179969983273,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1878-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンスペイ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.malts.com/media/62831/glenspey_singlemalt_12year.jpg" width = "80" height = "200" />
+</CENTER>
+<h2>
+　1878年設立。ロンドンの会社が最初に所有したスコッチウイスキー。</br>
+J&Bのメイン原酒。</br>
+ハーブのような風味で軽くドライな口当たり。シングルモルトとして一般に出回ることは稀少であり、見かけることのない少ない1本。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンスペイ12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.209587600312147</longitude>
+				<latitude>57.52574529986993</latitude>
+				<altitude>0</altitude>
+				<heading>-2.630803756159252e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000053176569</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.209587600312147,57.52574529986993,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1897-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>スペイバーン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.asherbws.com/wp-content/uploads/2017/02/Speyburn-10-yrs.jpg" width = "200" height = "200" />
+</CENTER>
+<h2>
+　”絞首刑台の丘”と呼ばれる丘に、ヴィクトリア女王在位60年を記念して建設されたという変わった歴史を持つ蒸留所。</br>
+クセのないライトな味わいで愛好者の普段飲み、初心者の入門用としてもおすすめ。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・スペイバーン　10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.215914999976076</longitude>
+				<latitude>57.53650899992331</latitude>
+				<altitude>0</altitude>
+				<heading>1.995996847285947e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000140379071</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.215914999976076,57.53650899992331,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1840-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレングラント</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/thumbnail/1000x/9df78eab33525d08d6e5fb8d27136e95/g/l/glen-grant-10-year-old-single-malt-scotch-whisky-2.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　モットーは"Simplicity"（飾りけのないこと）。</br>
+販売量世界6位のシェアを誇り、イタリアでは断トツの支持を受けている。</br>
+透き通った液色の見た目通り、ライトでドライ、フルーティー。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレングラント　10年</br>
+・グレングラント　メジャーリザーブ</br>
+・グレングラント　16年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.210786200067695</longitude>
+				<latitude>57.53033499968554</latitude>
+				<altitude>0</altitude>
+				<heading>-5.715098950188273e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000117150007</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.210744529745222,57.53007997083571,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1892-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>バルヴェニー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.tanners-wines.co.uk/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/w/h/wh029.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　グレンフィディックの第2蒸留所として創業。</br>
+バーボン樽で熟成後、シェリー樽に詰めかえ後熟させたダブルウッド、ポートワイン樽を使用したポートウッドをリリース。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・バルヴェニー　12年</br>
+・バルヴェニー　21年ポートウッド</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.12725550012385</longitude>
+				<latitude>57.45867329990612</latitude>
+				<altitude>0</altitude>
+				<heading>-1.044331153965193e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000120061931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.12725550012385,57.45867329990611,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1886-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンフィディック</name>
+			<description><![CDATA[<h1>世界一のシェアを誇るシングルモルト</h1>
+			<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/012385.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　世界で一番売れているシングルモルトとして知られ、今なお世界シェア約15％を誇る。</br>
+川の名でもあるフィディックははゲール語で鹿を意味し、ラベルに鹿が描かれてるのはそのため。</br>
+蒸留所の歴史は古く1887年創業。</br>
+昔ながらのポットスチルを使用した伝統的な製法にこだわる、スペイサイドを代表するモルト。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンフィディック12年</br>
+・グレンフィディック15年</br>
+・グレンフィディック18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.128660099947161</longitude>
+				<latitude>57.45476450039175</latitude>
+				<altitude>0</altitude>
+				<heading>4.443711973206752e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000146792126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.128660099947162,57.45476450039174,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1896-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ザ　シングルトン・ダフタウン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://thewhiskyphiles.files.wordpress.com/2015/07/singleton-of-dufftown-12-yo.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1896年設立。</br>
+98％がブレンド用に出荷されるため、シングルモルトとして市販される量はごくわずか。</br>
+グレンオード（アジア向け）、グレンダラン（北米向け）と並ぶシングルトンのヨーロッパ向けオフィシャルボトル。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ザ　シングルトン・ダフタウン12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.128096699925485</longitude>
+				<latitude>57.43591750047975</latitude>
+				<altitude>0</altitude>
+				<heading>6.316939409788207e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000084357686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.128096699925486,57.43591750047974,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1823-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>モートラック</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.whiskybyedzell.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/mortlach-16yo-flora-and-fauna.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1823年に創業したダフタウン最古の蒸留所。</br>
+蒸留工程が非常に複雑であり、3回蒸溜のモルトが一定割合含まれていることから、「ディアジオの異端児」と形容されている。</br>
+2014年に新たなオフィシャルボトルの発売を予定している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・モートラック16年　花と動物</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.123207100150824</longitude>
+				<latitude>57.44295180048749</latitude>
+				<altitude>0</altitude>
+				<heading>-1.269967654454919e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000137019305</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.123207100150824,57.44295180048748,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1975-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ピティヴェアック</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://whiskycorner.kiev.ua/imglib/_newimage/whisky/scotland/map/speyside/pittyvaich/29156/1462.jpg" width = "160" height = "200"/>
+</CENTER>
+<h2>
+　1975年に創業、ダフタウン蒸留所の第2蒸留所として1993年まで蒸留していた蒸留所。</br>
+ブレンデッド用として原酒提供が多く、蒸留所に2002年に取り壊されたため、現在ストックされているもののみが残された原酒である。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ピティヴェアック12年　花と動物</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.133303100095723</longitude>
+				<latitude>57.4369984997811</latitude>
+				<altitude>0</altitude>
+				<heading>-8.04652504556807e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000120573692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.129151388661092,57.43760618601866,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1964-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>トミントール</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.fcfaber.nl/clan/components/com_virtuemart/shop_image/product/Tomintoul__10__50ebf9514babe.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　トミントール蒸留所は1964年の創業。</br>
+加水してもバランスが崩れないスペイサイドの佳酒と評される。</br>
+かつてはホワイト&マッカイの原酒として使用されていたが、2000年にアンガス・ダンディ社が買収。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・トミントール10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.412079799912938</longitude>
+				<latitude>57.31219470045999</latitude>
+				<altitude>0</altitude>
+				<heading>7.324300591274737e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00005256895</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.412079799912938,57.31219470045999,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1824-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ザ・グレンリベット</name>
+			<description><![CDATA[<h1>造り手からも手本として愛されるシングルモルト</h1>
+			<CENTER>
+<img src = "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/1125/images/1158/glenlivet12__47811__79897.1358534185.380.500.jpg?c=2" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　スペイサイドの中でも少し奥まった、リベット渓谷にある蒸留所は政府公認第一号の蒸留所でもある。</br>
+公認後同名の蒸留所が乱立し、訴訟の末同社のみが「ザ」を付けた現在の名を使用できることになった。</br>
+花やフルーツを感じさせつつキレの良い味わいは誰でも飲みやすく、世界中に愛されているシングルモルト。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ザ・グレンリベット12年</br>
+・ザ・グレンリベット15年</br>
+・ザ・グレンリベット18年</br>
+・ザ・グレンリベット21年</br>
+・ザ・グレンリベット25年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.338697247853629</longitude>
+				<latitude>57.34441533910614</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003210363490306068</heading>
+				<tilt>0</tilt>
+				<range>1001.343756096897</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.338697247853629,57.34441533910614,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1826-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アベラワー</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://beerstore.com.au/wp-content/uploads/2015/10/aberlour-a039bunadh-1352892815.jpg" width = "75" height = "200"/>
+</CENTER>
+<h2>
+　1826年創業。フランスで人気の高い銘柄である。</br>
+アブーナは冷却濾過・加水を全く行わないため、バッチナンバーごとにアルコール度数が異なる。</br>
+濃厚でリッチなシェリーの香りが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アベラワー　アブーナ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.22818849999203</longitude>
+				<latitude>57.46702949977144</latitude>
+				<altitude>0</altitude>
+				<heading>6.488331550185573e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000141023843</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.228188499992029,57.46702949977144,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1835-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ベンリネス</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn2.masterofmalt.com/whiskies/benrinnes-15-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ベンリネスとはスペイサイドで最も高い山の名前。</br>
+付近を流れる川の水は古くからウイスキー造りに最良の水と言われる。</br>
+一部を3回蒸溜するユニークなシステムから、モートラック同様「ディアジオの異端児」として形容される。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ベンリネス15年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.236870400000711</longitude>
+				<latitude>57.4418407000641</latitude>
+				<altitude>0</altitude>
+				<heading>-4.572047354603804e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000091832874</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.236870400000711,57.44184070006409,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1869-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>クラガンモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn3.masterofmalt.com/whiskies/cragganmore-12-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　"The Best of Speyside"とラベルにあるように、その品質の高さからUD社（現ディアジオ社）のクラシックモルトシリーズに選ばれる。</br>
+オールドパーのメイン原酒としても知られる良質のスペイサイドモルト。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・クラガンモア12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.394539382497799</longitude>
+				<latitude>57.40971540362451</latitude>
+				<altitude>0</altitude>
+				<heading>-5.394220739762124e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.657005136749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.394539382497799,57.40971540362451,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1852-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ダルユーイン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.royalmilewhiskies.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/0/0010000006926.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ゲール語で「緑の谷」という意味。蒸留所はその名の通り森林に囲まれた窪地にある。</br>
+ジョニーウォーカーのキーモルトとしても有名。</br>
+リッチでスパイシーな味わいが特徴。</br>
+近年まで第2蒸留所としてインペリアル蒸留所が存在した。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ダルユーイン16年　花と動物</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.273165099953608</longitude>
+				<latitude>57.45245540006473</latitude>
+				<altitude>0</altitude>
+				<heading>3.945199783820864e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000087418256</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.273165099953608,57.45245540006472,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ノッカンドゥ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.malts.com/media/2797466/knockando-12.jpg" width = "80" height = "200"/>
+</CENTER>
+<h2>
+　ワインと同様に、蒸留年ごとにボトリングされることもあり、フランスで非常に人気のあるシングルモルト。</br>
+スペイサイドらしい華やかでデリケートな味わいは一度は味わっておきたい隠れた銘酒。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ノッカンドゥ　12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.348407000084296</longitude>
+				<latitude>57.45688099995452</latitude>
+				<altitude>0</altitude>
+				<heading>-7.057094241098287e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000135321797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.343384141848049,57.45713379165942,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1958-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>トーモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.bestofwhisky.com/media/catalog/product/cache/1/image/512x512/9df78eab33525d08d6e5fb8d27136e95/t/o/tormore12_2.png" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　数多くの蒸留所があるスコットランドでも、20世紀に入って最初に創設された蒸留所。</br>
+微かな柑橘系の風味とスパイシーさのあるソフトな味わいと、長いフィニッシュが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・トーモア　12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.408460000013245</longitude>
+				<latitude>57.39794790060918</latitude>
+				<altitude>0</altitude>
+				<heading>-1.12205993468681e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000081138774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.408460000013245,57.39794790060918,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1824-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ザ・マッカラン</name>
+			<description><![CDATA[<h1>日本で不動の人気を誇る代表的なモルト</h1>
+			<CENTER>
+<img src = "http://0deffa685409ad6db561-94166dea89ea90ea21f18b61e0ebbda9.r9.cf1.rackcdn.com/catalog/product/cache/1/image/300x/0dc2d03fe217f8c83829496872af24a0/m/a/macallan_12_750.png" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ハロッズウイスキー読本で「シングルモルトのロールスロイス」とも称される王道中の王道の蒸留所。</br>
+フルーティーな甘さがあり、味わいは深いがスペイサイドらしい飲みやすさは失わない。</br>
+メディシナルな香りが薄く、初心者にも薦めやすい。特に12年は初心者へのファーストラインには必ず入れたい1本。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ザ・マッカラン12年</br>
+・ザ・マッカラン18年</br>
+・ザ・マッカラン25年</br>
+・ザ・マッカラン30年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.206955099886979</longitude>
+				<latitude>57.48464649989577</latitude>
+				<altitude>0</altitude>
+				<heading>9.519161620019196e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000076191594</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.206955099886979,57.48464649989577,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1836-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンファークラス</name>
+			<description><![CDATA[<h1>家族経営で長年引き継がれる伝統のウイスキー</h1>
+			<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/464636.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　グレンファークラスはゲール語で「緑の草の生い茂る谷間」の意。</br>
+ベンリネス山から流れ出る豊かな水を原水として仕込まれるシングルモルトはすっきりとしつつも味わいの幅が広い。</br>
+その味の広がりは「グレンファー・マジック」と呼ばれ、世界中のシングルモルトファンから愛されている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンファークラス12年</br>
+・グレンファークラス15年</br>
+・グレンファークラス17年</br>
+・グレンファークラス21年</br>
+・グレンファークラス105</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.316358722192812</longitude>
+				<latitude>57.42699735796462</latitude>
+				<altitude>0</altitude>
+				<heading>-9.208970073322763e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.141783409404</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.316358722192812,57.42699735796462,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1819-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>クライヌリッシュ</name>
+			<description><![CDATA[<h1>すべての要素が入ったオールラウンダー</h1>
+			<CENTER>
+<img src = "https://www.malts.com/media/1934328/clynelish_14yr_bottle_200x500.jpg" width = "80" height = "200"/>
+</CENTER>
+<h2>
+　古くから銘酒とされ、19世紀後半にはその人気ゆえに生産が追い付かない事もあったという逸話が残されている。</br>
+スコッチウイスキーの全ての要素が入ったテイストが特徴。</br>
+食前、食中、食後を問わない、オールラウンドなシングルモルトウイスキーとして知られる。</br>
+ピート香はハイランドモルトのなかでもやや強め。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・クライヌリッシュ14年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.869264729565376</longitude>
+				<latitude>58.02351971069963</latitude>
+				<altitude>0</altitude>
+				<heading>2.661696881349642e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.429722581858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.869264729565376,58.02351971069963,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1843-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンモーレンジィ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/298638.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150! height = "200"/>
+</CENTER>
+<h2>
+　世界的にも人気の高いモルトウイスキーだが、特にイギリス本国での人気が高い。</br>
+フローラルな甘い香りと、繊細かつスパイシーである複雑な味わいが特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンモーレンジィオリジナル</br>
+・グレンモーレンジィ　18年</br>
+・グレンモーレンジィ　25年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.077948399936096</longitude>
+				<latitude>57.82585190001035</latitude>
+				<altitude>0</altitude>
+				<heading>5.43278496527487e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000007076638</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.077948399936096,57.82585190001035,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1838-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ザ　シングルトン・グレンオード</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.bacchusliquors.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/i/singlenton.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1838年創業、デュワーズのメイン原酒としても知られる。</br>
+170年以上にわたり技術が受け継がれ、現在でも蒸留所内でモルティングを行っている数少ない蒸留所のひとつ。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ザ　シングルトン・グレンオード12年</br>
+・ザ　シングルトン・グレンオード18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.475788999989343</longitude>
+				<latitude>57.52207600008421</latitude>
+				<altitude>0</altitude>
+				<heading>9.078098199567242e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000140258489</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.475788999989343,57.52207600008422,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1826-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>オールドプルトニー</name>
+			<description><![CDATA[<h1>スコットランド本土最北端から生まれる、ハイランド北部の代表格</h1>
+			<CENTER>
+<img src = "https://moorewilsons.co.nz/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/l/old-pulteney/old-pulteney-12-year-old-31.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　スコットランド本土最北端に位置する蒸留所で、バランタインのメイン原酒としても有名。</br>
+バイキング時代から栄えたこの街のモルトは、蒸留所が海岸沿いにあることを思わせる塩っぽい香りとスパイシーでオイリーな味わい。</br>
+しっかりとした味わいはハイランド北部を代表するモルトとして相応しいものになっている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・オールドプルトニー　12年</br>
+・オールドプルトニー　17年</br>
+・オールドプルトニー　21年</br>
+・オールドプルトニー　30年</br>
+・オールドプルトニー　40年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.084700000089733</longitude>
+				<latitude>58.43539999985512</latitude>
+				<altitude>0</altitude>
+				<heading>-7.594011628262847e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000122650465</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.084700000089733,58.43539999985512,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1839-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ダルモア</name>
+			<description><![CDATA[<h1>かすかな潮っぽさとシェリーのバランスが絶妙</h1>
+			<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/038901.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　クロマティ湾にのぞんだアルネスの蒸留所から生まれるダルモア。</br>
+ブランドを象徴するボトルのエンブレムは、かつてオーナーだったマッケンジー家が牡鹿の襲撃で傷ついたスコットランド王・アレキサンダー3世を守ったことで王から与えられたもの。</br>
+ハバナ葉巻と相性が良い「シガーモルト」も人気。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ダルモア12年</br>
+・ダルモア15年</br>
+・ダルモアシガーモルトリザーブ</br>
+・ダルモア18年</br>
+・ダルモア　1263キングアレキサンダー3世</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.23935990004273</longitude>
+				<latitude>57.689229000015</latitude>
+				<altitude>0</altitude>
+				<heading>-3.594662900990065e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000016358301</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.239233774679797,57.68852337147398,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1790-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>バルブレア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://liquor.b-smile.jp/upload/save_image/05262234_538342c966e57.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1790年創業。スコットランドで最も長い歴史を誇る蒸留所の一つ。</br>
+おとなしいキャラクターで飲みやすさが特徴だが長期熟成のものになるに従いより深い味わいに。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・バルブレア　2003</br>
+・バルブレア　1991</br>
+・バルブレア　1978</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.181177440765723</longitude>
+				<latitude>57.83992537704469</latitude>
+				<altitude>0</altitude>
+				<heading>-5.267161555931009e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.711713024423</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.181177440765723,57.83992537704468,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ダルウィニー</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/238097.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　スコットランドで最も標高の高い場所にある蒸留所のひとつ。</br>
+穏やかですっきりとした味わいが特徴</br>
+ブラック&ホワイト、ロイヤルハウスホールドのモルト原酒として使用されている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ダルウィニー15年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.239139986873196</longitude>
+				<latitude>56.93999520377908</latitude>
+				<altitude>0</altitude>
+				<heading>-6.669742437829549e-011</heading>
+				<tilt>0</tilt>
+				<range>1010.463725434771</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.239139986873196,56.93999520377908,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1817-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ティーニニック</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.drinkmonger.com/images/_lib/teaninich-10-year-old-flora-and-fauna-70cl-42000633-0-1425489746000.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　1817年設立。1970年、古い蒸留所の隣に全く新しい蒸留所が建てられた。</br>
+旧蒸留所は1999年まで生産を続けていたが、同年に取り壊された。</br>
+ディアジオ系列ではトップ5に入る年間生産量400万リットルを誇る。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ティーニニック10年　花と動物</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.260506494799672</longitude>
+				<latitude>57.69135091544002</latitude>
+				<altitude>0</altitude>
+				<heading>-2.65099232699984e-011</heading>
+				<tilt>0</tilt>
+				<range>1009.682458075792</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.260506494799672,57.69135091544001,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1825-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>エドラダワー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://maltmileage.files.wordpress.com/2016/01/edradour-10.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　スコットランド最小規模の蒸留所として有名なエドラダワー。</br>
+創業された1825年当時は農家が副業としてウイスキー造りを行っていた。</br>
+関税当局が認める最小のポットスティル2基で蒸留される。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・エドラダワー10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.699581000087233</longitude>
+				<latitude>56.70218860004514</latitude>
+				<altitude>0</altitude>
+				<heading>-7.293409453931027e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000124776283</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.699581000087233,56.70218860004513,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ブレアアソール</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn1.masterofmalt.com/whiskies/blair-athol-12-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1798年創業。蒸留所はリゾート地としても有名なパース州ピトロッホリーの町にあり、原酒はベルなどのブレンデッドウイスキーに使用されている。</br>
+リッチでフルーティーな味わいを楽しむことが可能。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブレアアソール12年　花と動物</br
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.721904999861118</longitude>
+				<latitude>56.69826779967626</latitude>
+				<altitude>0</altitude>
+				<heading>1.166563846067189e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000100496374</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.721904999861118,56.69826779967626,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1833-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンゴイン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.oaksliquors.com/product_images/img_104_1.jpg" width = "133.3" height = "200"/>
+</CENTER>
+<h2>
+　一般的なモルトウイスキーとは異なり、麦芽を乾燥させる際にピートを焚かない事からまろやかで甘い味わいが楽しめる。</br>
+食との相性も良く、モルト初心者にもオススメできる1本。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンゴイン10年</br>
+・グレンゴイン21年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.36323159591726</longitude>
+				<latitude>56.01408870455966</latitude>
+				<altitude>0</altitude>
+				<heading>-7.475655237178883e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.29313814061</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.363231595917259,56.01408870455966,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1896-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アバフェルディ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://f1.wine-searcher.net/images/labels/93/19/aberfeldy-12-year-old-single-malt-scotch-whisky-highlands-scotland-10519319.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　原酒はデュワーズのキーモルトとして使われる。</br>
+1898年に操業を開始し、1世紀以上にわたってデュワーズブランドの核として親しまれている。</br>
+スムースでまろやかな味わい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アバフェルディ12年</br>
+・アバフェルディ21年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.850832999951849</longitude>
+				<latitude>56.62425500008818</latitude>
+				<altitude>0</altitude>
+				<heading>4.037435869583306e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00004309844</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.850832999951849,56.62425500008819,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1965-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ディーンストン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.missionliquor.com/images/products/6659_1686e6072a0c34cda494e4f53d53c8b5.jpg" width = "100" height = "200"/>
+</CENTER>
+<h2>
+　ローランドの境界線近くに蒸留所があり、味わいもローランドに近いと評される。</br>
+ピートを焚きこまない事が特徴であり、フレッシュでメロー。マイルドな飲み口。</br>
+映画「天使の分け前」に登場した蒸留所。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ディーンストンヴァージンオーク</br
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.07004155857085</longitude>
+				<latitude>56.18870078277892</latitude>
+				<altitude>0</altitude>
+				<heading>-4.158376461345957e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.839592368906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.07004155857085,56.18870078277891,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1775-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンタレット</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn1.masterofmalt.com/whiskies/glenturret/the-glenturret-10-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　創業は1775年。現存する蒸留所の中では最古とされる。</br>
+約3万匹のネズミを捕ったことでギネスブックにも認定されたウイスキーキャットのタウザーで有名。蒸留所には銅像も設置されているという。</br>
+飲み口はなめらかで優しい印象。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンタレット10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.853730599748302</longitude>
+				<latitude>56.3893763995406</latitude>
+				<altitude>0</altitude>
+				<heading>2.096478521060084e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000041192431</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.853730599748302,56.3893763995406,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1949-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>タリバーディン</name>
+			<description><![CDATA[<h1>今世紀に入り操業を再開したニュー・ディスティラリー</h1>
+			<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/440974.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　1994年から操業を停止していたが、2003年に4人のプライベートメンバーが蒸留所と保有する樽を買収し操業を再開。</br>
+ほぼ全てがバーボンバレルの熟成で僅かにシェリー樽を使用した「ソヴリン」。</br>
+長期熟成原酒をブレンドした「20年」、「25年」など、豊富なラインナップを誇る。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・タリバーディンソヴリン</br>
+・タリバーディンシェリーフィニッシュ　500</br>
+・タリバーディン20年</br>
+・タリバーディン25年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.782557399921246</longitude>
+				<latitude>56.25915699940268</latitude>
+				<altitude>0</altitude>
+				<heading>6.536914522944929e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000136353684</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.782557399921246,56.25915699940268,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1962-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンデュベロン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.milerpije.pl/wp-content/uploads/2016/02/Glen-Deveron-10-yo1.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　マクダフ蒸留所のブランドであり、蒸留所名とブランド名が異なっている点で珍しい。</br>
+初留、再留を2:3でポットスティルで行う変則的なシステムも特徴的であり、スムースな味わいを実現している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンデュベロン10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.511802900042255</longitude>
+				<latitude>57.65792100014913</latitude>
+				<altitude>0</altitude>
+				<heading>-3.56377176364635e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000123293778</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.511802900042255,57.65792100014913,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1785-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンギリー</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.oaksliquors.com/product_images/img_595_1.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　1785年に創業した東ハイランド最古の蒸留所として知られる。</br>
+自社でフロアモルティングを行っている数少ない蒸留所のひとつ。</br>
+花の香り、香ばしさが印象的でコクのあるクリーミーな味わい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンギリー12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.319488588652871</longitude>
+				<latitude>57.33819834829734</latitude>
+				<altitude>0</altitude>
+				<heading>4.322723673123879e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.95897181905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.31948858865287,57.33819834829733,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1826-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンドロナック</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://scotchnoob.com/images/scotches/glendronach_12.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1826年創業。2008年にオーナーが変わったことでシングルモルトのラインナップを強化。</br>
+100％シェリー樽熟成にこだわる稀有な蒸留所。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンドロナック12年</br>
+・グレンドロナック15年</br>
+・グレンドロナック18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.625816447781912</longitude>
+				<latitude>57.48449688333702</latitude>
+				<altitude>0</altitude>
+				<heading>1.294689135924757e-007</heading>
+				<tilt>0</tilt>
+				<range>1009.934318804339</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.625816447781912,57.48449688333702,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1826-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ロイヤル　ロッホナガー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn3.masterofmalt.com/whiskies/royal-lochnagar-12-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1848年、ヴィクトリア女王突然の訪問後に勅許状を得て以来、頭にロイヤルを付けて呼ばれる様になった蒸留所。</br>
+実際に女王が極上のボルドーワインに数滴落として飲んでいたと言う話はあまりにも有名。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ロイヤル　ロッホナガー　12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.208845000077973</longitude>
+				<latitude>57.03014000053832</latitude>
+				<altitude>0</altitude>
+				<heading>-6.528327025304974e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000082646881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.208845000077973,57.03014000053832,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1898-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アードモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://cdn1.shopmania.biz/files/s4/877205478/p/l/6/ardmore-traditional-cask-highland-malt~3126.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1898年創業。ティーチャーズのメイン原酒。</br>
+ハイランドのウイスキーには珍しく、100％ピートを焚いた麦芽を使用。</br>
+通常の熟成の後、クォーターカスクで熟成を行う2段階熟成でよりピーティーな味わいに。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アードモアトラディショナル・カスク</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.7454454509805</longitude>
+				<latitude>57.35159145017752</latitude>
+				<altitude>0</altitude>
+				<heading>-3.448085845786815e-009</heading>
+				<tilt>0</tilt>
+				<range>1021.709138587125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.745445450980499,57.35159145017752,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1824-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>フェッターケアン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn3.masterofmalt.com/whiskies/fettercairn/fettercairn-fior-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1824年創業。ホワイト&マッカイの原酒として知られる。</br>
+クリーミーでマイルドな酒質。</br>
+フィオールは15年原酒、14年原酒とヘビーピート5年原酒をブレンドした、エイジング表記のないモデル。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・フェッターケアンフィオール</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.581834634397398</longitude>
+				<latitude>56.85322270574602</latitude>
+				<altitude>0</altitude>
+				<heading>2.558688654450418e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.594053840032</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.581834634397398,56.85322270574602,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1825-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンカダム</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn4.masterofmalt.com/whiskies/glencadam-15-year-old-new-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1825年創業。バランタインの主要な原酒としても知られている。</br>
+大麦のクリームと言われるスイートでまろやかな酒質が特徴</br>
+そのほとんどがブレンド用に回されており、近年になって初めてのオフィシャルボトルがリリースされた。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンカダム15年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.652810639746926</longitude>
+				<latitude>56.73650905807042</latitude>
+				<altitude>0</altitude>
+				<heading>-7.23373827241342e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.145670374836</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.652810639746926,56.73650905807041,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1894-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アンノック</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://shop.whiskybase.com/images/whiskies/239.jpg" width = "100" height = "200"/>
+</CENTER>
+<h2>
+　1894年に創業されたノックデュー蒸留所によって作られたウイスキー。</br>
+本来はヘイグの原酒供給用の蒸留所として設立された。</br>
+職人の伝統技が冴えるハイランドモルトの傑作。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アンノック　12年</br>
+・アンノック　16年</br>
+・アンノック　35年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.760219000006995</longitude>
+				<latitude>57.56276700024849</latitude>
+				<altitude>0</altitude>
+				<heading>-5.609305750096095e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000068946734</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.760219000006995,57.5627670002485,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1875-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレングラッサ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn4.masterofmalt.com/whiskies/glenglassaugh-revival-single-malt-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1875年、東ハイランドのポートソイに創業。</br>
+フェイマスグラウス、カティサークの原酒として知られる。</br>
+1986年に生産がストップしていたが、22年の休止後、2008年に復活を遂げた。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレングラッサ　リバイバル</br>
+・グレングラッサ　エヴォリューション</br>
+・グレングラッサ　30年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.738069416907863</longitude>
+				<latitude>57.67924221032524</latitude>
+				<altitude>0</altitude>
+				<heading>8.295840775661289e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.492539494468</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.738069416907863,57.67924221032524,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1825-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ベンネヴィス</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://cdn3.bigcommerce.com/s-d24ojig/products/1314/images/2683/ben_nevis_whisky_46_70cl___53601.1443894527.500.750.jpg?c=2" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1825年に創業。1983年に操業停止となったが、1989年にニッカウヰスキーが買収することで操業が再開された。</br>
+バニラのようにまろやかな味わいが特徴的。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ベンネヴィス　シングルモルト10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.074196188850283</longitude>
+				<latitude>56.83473384877092</latitude>
+				<altitude>0</altitude>
+				<heading>-6.136458516333091e-008</heading>
+				<tilt>0</tilt>
+				<range>1086.49463244219</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.074196188850283,56.83473384877092,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1794-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>オーバン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn3.masterofmalt.com/whiskies/oban-14-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1794年に操業。オーバンとはゲール語で「小さな湾」の意。その名の通り港町に蒸留所がある。</br>
+スモーキーなフレーバーを楽しむことができ、デュワーズなどの原酒として使用されている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・オーバン　14年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.472280999974136</longitude>
+				<latitude>56.41495000027737</latitude>
+				<altitude>0</altitude>
+				<heading>2.177487248796959e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000107708954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.472280999974136,56.41495000027737,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ハイランドパーク</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/thumbnail/1000x/9df78eab33525d08d6e5fb8d27136e95/h/i/highland-park-12-year-old-single-malt-scotch-whisky-2.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　本土より北方に浮かぶオークニー島にあるスコットランド最北端の蒸留所。</br>
+海のモルトらしいピーティーさもありながら、スムージィな甘さが特徴的で食後酒に選ばれることが多い。</br>
+なめらかなビロードのような1杯。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ハイランドパーク12年</br>
+・ハイランドパーク18年</br>
+・ハイランドパークロキ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.9555337057735</longitude>
+				<latitude>58.9685017888383</latitude>
+				<altitude>0</altitude>
+				<heading>1.537441555276594e-006</heading>
+				<tilt>0</tilt>
+				<range>1005.200862528682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.9555337057735,58.9685017888383,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1830-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>タリスカー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/talob.10yov1.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　スカイ島に残る唯一の蒸留所</br>
+非常にスモーキーかつ潮の香りも豊かなタリスカーを飲むのはいわば海を飲むようなもので、時にはその風味は「爆発的」とも評される。</br>
+強烈なパンチと余韻に酔いしれたい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・タリスカー10年</br>
+・タリスカーストーム</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.356749100186074</longitude>
+				<latitude>57.30233620046058</latitude>
+				<altitude>0</altitude>
+				<heading>-1.566486791714411e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00014130947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.356749100186074,57.30233620046058,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1885-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>スキャパ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn1.masterofmalt.com/whiskies/scapa-16-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　スコットランド最北部に位置する蒸留所のひとつ。</br>
+島モルトのブリニーで個性的なテイストと熟成感とのバランスがよい。初心者にも飲みやすいスタイルに仕上がっている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・スキャパ16年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.985340999821221</longitude>
+				<latitude>58.96316899984382</latitude>
+				<altitude>0</altitude>
+				<heading>1.533281800839932e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000126589668</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.985340999821221,58.96316899984382,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1810-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アイル　オブ　ジュラ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.buyanydrink.com/image/cache/data/malt%20whisky/Isle%20of%20Jura%2010%20Year%20Old-600x600.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アイラ島の北東に位置するジュラ島。</br>
+再建時にアイラモルトと区別するため、ノンピート麦芽の使用を決めており、ライトなボディが特徴的。</br>
+現在は年に1か月だけヘビーピーテッド麦芽の仕込を行っている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アイルオブジュラ　10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.95083200024497</longitude>
+				<latitude>55.83290770991718</latitude>
+				<altitude>0</altitude>
+				<heading>-5.135384019229941e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.054014713668</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.95083200024497,55.83290770991718,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1995-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アラン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/thumbnail/1000x/9df78eab33525d08d6e5fb8d27136e95/a/r/arran-10-year-old-single-malt-scotch-whisky-gift-set-3.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　夏のリゾートとしても有名なアラン島。かつてウイスキーの名産地だったこの地に1995年、160年ぶりに蒸留所を設立。</br>
+じっくり造られたシングルモルトは評価が高い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アラン10年</br>
+・アラン12年カスクストレングス</br>
+・アラン14年</br>
+・アラン16年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.275266400011736</longitude>
+				<latitude>55.69756529967972</latitude>
+				<altitude>0</altitude>
+				<heading>-9.340493960787982e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000146347181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.275266400011736,55.69756529967972,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>トバモリー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn2.masterofmalt.com/whiskies/tobermory-10-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1798年に創業。過去に休止と創業を繰り返した苦難の歴史を持つ島内唯一の蒸留所。</br>
+熟成は同じバーンステュアート傘下のディーンストン蒸留所や、アイラ島にあるブナバーンの熟成庫で行っている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・トバモリー　10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.069799999896938</longitude>
+				<latitude>56.62073419973676</latitude>
+				<altitude>0</altitude>
+				<heading>8.603320899491774e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000049702639</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.569799999896938,56.62073419973677,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.569799999896938,56.62073419973677,100000 -6.069799999896938,56.62073419973677,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>レダイグ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://shop.whiskybase.com/images/whiskies/18211.jpg" width = "100" height = "200"/>
+</CENTER>
+<h2>
+　トバモリー蒸留所でつくられるシングルモルト。</br>
+トバモリーがピートを焚かないライトなタイプなのに対して、レダイグはヘビーピーテッド麦芽を使用しておりキャラクターの違う味わいになっている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・レダイグ　10年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.069799999896938</longitude>
+				<latitude>56.62073419973676</latitude>
+				<altitude>0</altitude>
+				<heading>8.615407007281334e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00004970125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.569799999896938,56.62073419973677,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1798-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.569799999896938,56.62073419973677,100000 -6.069799999896938,56.62073419973677,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1828-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ヘーゼルバーン</name>
+			<description><![CDATA[<h1>今はなき蒸留所の名前を冠した3回蒸留シングルモルト</h1>
+			<CENTER>
+<img src = "https://www.sakekaitori.com/wp/wp-content/uploads/hazelburn.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1997年よりスプリングバンク蒸留所においてノンピート麦芽を使用し、3回蒸留で造られるシングルモルト。</br>
+ヘーゼルバーンとはかつてキャンベルタウンに存在した蒸留所の名。</br>
+12年は年に1回のみの限定生産で、シェリー樽を100％使用した複雑かつ濃厚な味わいが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ヘーゼルバーン12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.608311666763425</longitude>
+				<latitude>55.42729425149017</latitude>
+				<altitude>0</altitude>
+				<heading>0.001295158871204181</heading>
+				<tilt>0</tilt>
+				<range>1001.835053598303</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.108709,55.425754,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1828-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.108709,55.425754,100000 -5.608709,55.425754,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1828-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>スプリングバンク</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://f3.wine-searcher.net/images/labels/53/87/springbank-10-year-old-single-malt-scotch-whisky-campbeltown-scotland-10475387t.jpg" width = "133" height = "200"/>
+</CENTER>
+<h2>
+　2.5回蒸留を行い、製麦からボトリングまでを蒸留所内で行う唯一の蒸留所。</br>
+流行におもねることなく頑なに伝統の味を守り続けてきた。</br>
+独特の潮味と軽さが特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・スプリングバンク10年</br>
+・スプリングバンク15年</br>
+・スプリングバンク18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.608709099837188</longitude>
+				<latitude>55.4257535003992</latitude>
+				<altitude>0</altitude>
+				<heading>1.340603798236872e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000138999413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.108709,55.425754,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1828-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.108709,55.425754,100000 -5.608709,55.425754,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1828-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ロングロウ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.beowein.de/WebRoot/Store8/Shops/Shop538/4F53/A8E6/2513/8305/E5C3/AC14/504C/8BE9/42634_longrow_peated_fl.png" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　スプリングバンク蒸留所のヘビーピートタイプで、2回蒸留。</br>
+スプリングバンクが"女性"ならロングロウは"男性"。特有の潮の味とともに、にじみ出る甘さを楽しんで。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ロングロウ</br>
+・ロングロウレッドシラーズカスク</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.608709099837188</longitude>
+				<latitude>55.4257535003992</latitude>
+				<altitude>0</altitude>
+				<heading>1.340603798236872e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000138999413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.608709099837187,55.4257535003992,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>2004-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>キルケラン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/klkob.non10.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　2004年にオープンしたミッチェルズ・グレンガイル蒸留所は、キャンベルタウンで実に125年ぶりに建設された蒸留所。</br>
+「Work in Progress」シリーズは毎年発売されており、徐々に深まる熟成度合いを楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・キルケラン　Work in ProgressV　バーボンウッド</br>
+・キルケラン　Work in ProgressV　シェリーウッド</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.610750699992759</longitude>
+				<latitude>55.42710980028632</latitude>
+				<altitude>0</altitude>
+				<heading>6.430286427248865e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.00013873581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.61075069999276,55.42710980028632,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1832-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンスコシア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://static.whiskybase.com/storage/whiskies/3/8/662/76842-big.jpg" width = "100" height = "200"/>
+</CENTER>
+<h2>
+　スプリングバンク蒸留所とともに、キャンベルタウンの伝統を守り続けてきたグレンスコシア蒸留所。</br>
+近年パッケージをフルリニューアル。</br>
+熟成はすべてバーボン樽を使用、複雑な味わいを楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンスコシア16年</br>
+・グレンスコシア18年</br>
+・グレンスコシア21年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-5.604776000091437</longitude>
+				<latitude>55.42960300018002</latitude>
+				<altitude>0</altitude>
+				<heading>-7.528850014226363e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000111043485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.604776000091437,55.42960300018002,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1816-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ラガヴーリン</name>
+			<description><![CDATA[<h1>全モルト中「最高」とも評される1本</h1>
+			<CENTER>
+<img src = "https://d256619kyxncpv.cloudfront.net/gui/img/2017/04/18/8/201704188_lagavulin_16yo_original.png" width = "100" height = "200"/>
+</CENTER>
+<h2>
+　全モルト中「最高」との呼び声高いアイラモルト。</br>
+オフィシャル・ボトルは12年熟成が主流だが、ラガヴーリンは16年という長期間の熟成にこだわり続けている。</br>
+重厚なピート香とシェリー樽のフレーバーが絶妙に溶け合ったその味わいは、数多くのファンの心を魅了して止まない。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ラガヴーリン16年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.126204949871449</longitude>
+				<latitude>55.63551498103846</latitude>
+				<altitude>0</altitude>
+				<heading>1.609360668820538e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.308108589161</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.126204949871449,55.63551498103847,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1779-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ボウモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn4.masterofmalt.com/whiskies/bowmore-12-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1779年創業。アイラ島最古の蒸留所として知られる。</br>
+海抜0メートル以下の貯蔵庫で、海の香りを呼吸しながら熟成されるボウモアは、アイラモルトの女王と呼ばれる気品あふれる銘酒。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ボウモア 12年</br>
+・ボウモア 15年ダーケスト</br>
+・ボウモア 18年</br>
+・ボウモア 25年</br>
+・ボウモア シングルセレクト</br>
+・ボウモア スモールバッチ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.289845999931033</longitude>
+				<latitude>55.75686799941554</latitude>
+				<altitude>0</altitude>
+				<heading>5.683492188041231e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000085379304</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.289822180364184,55.756881402919,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1815-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>アードベッグ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.asherbws.com/wp-content/uploads/2013/12/Ardbeg-10yrs.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　麦芽に焚きこむピートの度合いが非常に強く、アイラモルトの中でもひときわ強い存在感を放っている。</br>
+ビギナーがアイラモルトの激しい個性を知るにはまたとない一本。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アードベッグ　10年</br>
+・アードベッグ　ウーガダール</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.108104607896362</longitude>
+				<latitude>55.6406629059073</latitude>
+				<altitude>0</altitude>
+				<heading>4.481690181519436e-009</heading>
+				<tilt>0</tilt>
+				<range>1039.623760204749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.108104607896362,55.6406629059073,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1825-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ラフロイグ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/248997.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　「アイラの王者」として知られるもっともポピュラーなアイラモルトのひとつ。</br>
+ピート層を通って流れ出る水で蒸留されるラフロイグは強烈なピート香を持っており、これでピート香の洗礼を受ける人も多い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ラフロイグ10年</br>
+・ラフロイグ18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.152203999977016</longitude>
+				<latitude>55.63005689994425</latitude>
+				<altitude>0</altitude>
+				<heading>1.912308502229939e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000079480633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.152203999977016,55.63005689994425,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1881-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ブナハーブン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn2.masterofmalt.com/whiskies/bunnahabhain-12-year-old-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アイラ最北端の蒸留所で、アイラでは稀なライトピートで作られるシングルモルト。</br>
+ピートの影響を受けないように、マーガデイル川の水を直接引いている。</br>
+味は非常にライトで飲みやすく、上品。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブナハーブン　12年</br>
+・ブナハーブン　25年</br>
+・ブナハーブン　トチェック</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.125825130670158</longitude>
+				<latitude>55.8829087562954</latitude>
+				<altitude>0</altitude>
+				<heading>-8.998337839542837e-010</heading>
+				<tilt>0</tilt>
+				<range>1023.073027733145</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.125825130670158,55.8829087562954,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1881-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ブルックラディ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.aries-wineny.com/wp-content/uploads/2014/08/bruichladdich-scottish-barley-the-classic-laddie-single-malt-scotch-whisky.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1881年に創業したブルックラディ蒸留所では、電子機器を一切使用せず、誇り高き職人たちの手によってゆっくりと時間をかけながらウイスキーがつくられている。</br>
+ノンピートで軽やかな味わい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブルックラディ　スコティッシュ・バーレイ</br>
+・ブルックラディ　アイラ・バーレイ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.361905511153625</longitude>
+				<latitude>55.76593673903402</latitude>
+				<altitude>0</altitude>
+				<heading>-2.726909781830365e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.075092674783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.361905511153625,55.76593673903401,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1846-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>カリラ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://image.biccamera.com/img/00000002040188_A03.jpg?sr.dw=600&sr.jqh=60" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　フレッシュでオイリーな個性の中にピートが効いているカリラ12年。</br>
+1846年に創業、年間生産量はアイラ島の蒸留所で最大級を誇っており、以前はブレンド用の原酒としての方が重宝されていた。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・カリラ　12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.109338700059053</longitude>
+				<latitude>55.85409910040071</latitude>
+				<altitude>0</altitude>
+				<heading>-4.8797660200354e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000148779935</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.109338700059053,55.85409910040071,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1829-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ポートシャーロット</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/368183.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ブルックラディと相対するようにピーテッドモルトを使用したアイラらしいタイプ。</br>
+スコットランド産の大麦を100％使用している。ノン・チルフィルターで着色料無添加。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ポートシャーロット　スコティッシュ・バーレイ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.378617767548654</longitude>
+				<latitude>55.73878003883064</latitude>
+				<altitude>0</altitude>
+				<heading>8.032997251263806e-005</heading>
+				<tilt>3.426802667754665</tilt>
+				<range>913.6087806354201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.378617767548653,55.73878003883064,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>2005-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>キルホーマン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.aeondewine.com/img/goods/A106/1/5060210700218_1.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　2005年にアイラ島に誕生したキルホーマン蒸留所。</br>
+ヨードの乗ったアイラらしい力強いピートスモークに、やわらかく芳しい多種な果実のアロマが鼻腔をくすぐる。</br>
+マキヤーベイは初の定番商品。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・キルホーマン　マキヤーベイ</br>
+・キルホーマン　100％アイラサードリリース</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.429819677686856</longitude>
+				<latitude>55.78728148187551</latitude>
+				<altitude>0</altitude>
+				<heading>0.01281218612608571</heading>
+				<tilt>21.94545283435824</tilt>
+				<range>829.7352744347433</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.430599747398662,55.78688685123389,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1881-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>オクトモア</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.potomacwines.com/image/cache/data/Single%20Malt%20Whiskey/Octomore%206.1-500x500.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　世界で最もピーティなウイスキーと言われる。</br>
+ブルックラディ蒸留所のヘビーピート麦芽を使用してつくられるシングルモルト。</br>
+スタイリッシュなボトルも目を引く存在。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・オクトモア　06.1スコティッシュ・バーレイ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.361905511153625</longitude>
+				<latitude>55.76593673903402</latitude>
+				<altitude>0</altitude>
+				<heading>-2.726952719318563e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.075129872403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.361905511153625,55.76593673903401,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1837-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>グレンキンチー</name>
+			<description><![CDATA[<h1>ローランドの名高いシングルモルト</h1>
+			<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/069435.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ローランドで現在も操業を続ける数少ない蒸留所のうちの一つ。</br>
+ローランドを代表するモルトだが、そのほとんどはディンプルなどのブレンド用に使用されている。</br>
+ローランドらしいライトなボディーは入門にも。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・グレンキンチー　12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.89156955120887</longitude>
+				<latitude>55.89145328702872</latitude>
+				<altitude>0</altitude>
+				<heading>-6.921439608240515e-010</heading>
+				<tilt>0</tilt>
+				<range>1019.097046178033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.89156955120887,55.89145328702872,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1823-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>オーヘントッシャン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/107359.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　1823年創業。オーヘントッシャンとはゲール語で「野原の片隅」の意。</br>
+ローランドの伝統の3回蒸留を今もなお踏襲しており、その味わいは穏やかで繊細。</br>
+ローランドモルトの代表格。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・オーヘントッシャン　12年</br>
+・オーヘントッシャン　スリーウッド</br>
+・オーヘントッシャン　クラシック</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.438754499899075</longitude>
+				<latitude>55.92277210020043</latitude>
+				<altitude>0</altitude>
+				<heading>8.369391102670131e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000008133746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.438754499899076,55.92277210020043,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1817-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ブラドノック</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn2.masterofmalt.com/whiskies/bladnoch/bladnoch-12-year-old-sherry-cask-matured-distillery-label-whisky.jpg?square=1" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　1817年創業。スコットランド最南に位置する蒸留所は1999年にレイモンド・アームストロングによって操業を再開した。</br>
+ローランドモルトの中では、骨太で個性的な存在感を放つ。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブラドノック12年　シェリーカスク</br>
+・ブラドノック21年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.461746044236966</longitude>
+				<latitude>54.85836763937356</latitude>
+				<altitude>0</altitude>
+				<heading>-3.524645295579792e-008</heading>
+				<tilt>0</tilt>
+				<range>1451.993220384178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.461746044236966,54.85836763937355,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1784-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ブッシュミルズ</name>
+			<description><![CDATA[<h1>3回蒸留を行う伝統のアイリッシュ</h1>
+			<CENTER>
+<img src = "http://www.tdrinkswebwinkel.nl/files/images/2353_300px_thumb.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　「林の中の水車小屋」という意味を持つ、北アイルランドの町・ブッシュミルズで作られるアイリッシュウイスキー。</br>
+3回蒸留、スモークしていないモルトを使用、そして100％麦芽化した大麦の使用と伝統的なアイリッシュウイスキーとスコッチウイスキーの製法を組み合わせその味わいを生み出している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブッシュミルズモルト10年</br>
+・ブッシュミルズモルト16年</br>
+・ブッシュミルズ（ブレンデッドウイスキー）</br>
+・ブラックブッシュ（ブレンデッドウイスキー）</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.517226700014608</longitude>
+				<latitude>55.20285369958444</latitude>
+				<altitude>0</altitude>
+				<heading>-1.193582658086221e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000041858178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.517226700014609,55.20285369958443,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1987-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>カネマラ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://whiskeyreviewer.com/wp-content/uploads/2015/05/connemara.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ラガヴーリンとラフロイグに対抗して造られたピート香が特徴のクーリー蒸留所産シングルモルト。</br>
+ピートのアロマに加え、フルーティな香りが魅力的。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・カネマラ</br>
+・カネマラ12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.221562799545664</longitude>
+				<latitude>53.99643660077678</latitude>
+				<altitude>0</altitude>
+				<heading>-4.260034940352234e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.595700727742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.721562799545665,53.99643660077678,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1987-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-5.721562799545665,53.99643660077678,100000 -6.221562799545665,53.99643660077678,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1987-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<name>ターコネル</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/402396.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　アイルランドにかつて存在したワット蒸留所の代表ブランドを復活させたシングルモルト・アイリッシュ・ウイスキー。</br>
+フレッシュでなめらかな味わい、すっきりとした後味が特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ターコネル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.221562799580436</longitude>
+				<latitude>53.99643660004814</latitude>
+				<altitude>0</altitude>
+				<heading>3.39342920629387e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000028813863</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.721562799580437,53.99643660004814,100000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan>
+				<begin>1987-01-01T00:00:00Z</begin>
+			</TimeSpan>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.721562799545665,53.99643660077678,100000 -6.221562799545665,53.99643660077678,0</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

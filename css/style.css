@@ -59,14 +59,16 @@ a:hover {
 }
 
 .cesium-infoBox-title {
-    padding: 5px 24px;
+    padding: 10px 24px;
     overflow: hidden;
+    font-weight: bold;
+    font-size: 18px;
     color: #000;
     background-color: rgba(255, 255, 255, 0.5);
 }
 
 button.cesium-infoBox-close {
-    color: #aaa;
+    color: #8b4513;
 }
 
 .cesium-selection-wrapper svg {
@@ -107,7 +109,7 @@ button.cesium-infoBox-close {
 
 #buttonGeo {
     position: absolute;
-    bottom: 8px;
+    bottom: 30px;
     left: 50%;
     margin-left: -20px;
     opacity: 0.9;
@@ -190,10 +192,14 @@ button.cesium-infoBox-close {
 
 .loading {
     position: absolute;
-    top: 50%;
     left: 50%;
-    margin-top: -32px;
-    margin-left: -32px;
+    top: 50%;
+}
+
+#target{
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 50%;
 }
 
 input {
@@ -309,4 +315,17 @@ input {
     z-index: 20000;
     margin: 0;
     padding: 0;
+}
+
+/* チェックボックス */
+#check_bar {
+    border-radius: 10px;
+    position:absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-color: #53b300;
+    z-index:20000;
+    left: 8px;
+    bottom: 120px;
+    font-size: 10px;
+    font-weight: bold;
 }

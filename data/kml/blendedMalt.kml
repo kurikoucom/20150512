@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>blendedMalt.kml</name>
+	<Style id="sn_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+			<width>1</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_whiskyIcon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_whiskyIcon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_whiskyIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b2ffffff</color>
+			<width>1</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>blendedMalt</name>
+		<Placemark>
+			<name>竹鶴</name>
+			<description><![CDATA[<h1>”日本のウイスキーの父”竹鶴氏の名を冠したピュアモルト</h1>
+			<CENTER><img src = "https://www.stock-lab.com/liquor/wp/wp-content/uploads/2015/09/%E7%AB%B9%E9%B6%B4.jpg" width = "200" height = "200"/></CENTER>
+<h2>　竹鶴政孝が複数の蒸溜所を開設することにこだわったのは、上質なピュアモルトを生み出すためであったといっても過言ではない。</br>
+受け継がれたブランドの技と志、個性豊かにして上質なモルト原酒。<br>
+そこから生み出された「竹鶴ピュアモルト」は、香り高く飲みやすい、豊かな味わいのモルトウイスキーとなっている。</h2>
+</br>
+<h3>種類</h3>
+<p>
+・竹鶴ピュアモルト</br>
+・竹鶴17年ピュアモルト</br>
+・竹鶴21年ピュアモルト</br>
+・竹鶴25年ピュアモルト
+</p>]]></description>
+			<LookAt>
+				<longitude>140.4300096405849</longitude>
+				<latitude>40.73259229073752</latitude>
+				<altitude>0</altitude>
+				<heading>0.804239466578377</heading>
+				<tilt>0</tilt>
+				<range>1335855.546516906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.1548122900035,40.7650331702508,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.1548122900035,40.7650331702508,50000 141.2926292988072,43.18554558183266,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.1548122900035,40.7650331702508,50000 140.649740099929,38.31200869989288,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>イチローズモルト</name>
+			<description><![CDATA[<CENTER><img src = "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-claude/cabinet/whisky7/img67076107.jpg" width = "133.3" height = "200"/></CENTER>
+				<h2>
+　今は無き羽生蒸溜所の原酒と、秩父蒸溜所の原酒をヴァッティングして作られたリーフラベル・シリーズ。</br>
+熟成樽を入れ替えるというひと手間により、様々な味わいが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ダブルディスティラリーズ</br>
+・ミズナラウッドリザーブ</br>
+・ワインウッドリザーブ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.6407621600264</longitude>
+				<latitude>36.29762452126675</latitude>
+				<altitude>0</altitude>
+				<heading>0.0591432902469032</heading>
+				<tilt>0</tilt>
+				<range>398130.6011708359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.0250989765183,36.27343229907437,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.0250989765183,36.27343229907437,50000 139.5307135003163,36.17195060016974,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.0250989765183,36.27343229907437,50000 139.0543534125786,36.04656414953963,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ピュアモルト</name>
+			<description><![CDATA[<CENTER><img src = "http://www.saketen.jp/shopimages/osakeee/0000000008962.jpg" width = "200" height = "200"/></CENTER>
+				<h2>
+　余市蒸溜所のモルトが主体の「ブラック」、宮城峡蒸溜所のモルトが主体の「レッド」、余市蒸溜所のヘビーピートタイプのモルトが主体の「ホワイト」、それぞれ特徴の異なる味わいが楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ピュアモルト　ブラック</br>
+・ピュアモルト　レッド</br>
+・ピュアモルト　ホワイト</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>140.4300096405849</longitude>
+				<latitude>40.73259229073752</latitude>
+				<altitude>0</altitude>
+				<heading>0.804239466578377</heading>
+				<tilt>0</tilt>
+				<range>1335855.546516906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>141.8573390549771,40.7265441318241,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>141.8573390549771,40.7265441318241,50000 141.2926292988072,43.18554558183266,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>141.8573390549771,40.7265441318241,50000 140.649740099929,38.31200869989288,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>モンキーショルダー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/vatted_mon1.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　スペイサイドにあるグレンフィディック、バルヴェニー、キニンヴィーの3つの蒸留所から選ばれたモルト27樽をブレンド。</br>
+ボトルの肩に3匹の猿が乗っているユニークなボトルが楽しい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・モンキーショルダー</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.178552475670958</longitude>
+				<latitude>57.44098762376874</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0408164937153323</heading>
+				<tilt>0</tilt>
+				<range>123547.1744225185</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-2.640496513139012,57.39200395334157,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-2.640496513139012,57.39200395334157,50000 -3.128660099947162,57.45476450039174,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-2.640496513139012,57.39200395334157,50000 -3.12725550012385,57.45867329990611,0</coordinates>
+			</LineString>
+		</Placemark>
+
+		<Placemark>
+			<name>ビッグピート</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/900/vatted_big2.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ポートエレンを含む、アードベッグ、カリラ、ボウモアのアイラ4蒸留所をブレンド。</br>
+ヴィンテージ原酒をふんだんに使用した贅沢なもので、品評会で賞も獲得するなど評価が高い。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ダグラスレイン　ビッグピート</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-6.15706930769724</longitude>
+				<latitude>55.70004417131581</latitude>
+				<altitude>0</altitude>
+				<heading>-2.543337138605347</heading>
+				<tilt>0</tilt>
+				<range>135296.2573498616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.088364401527898,55.74229566468621,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.088364401527898,55.74229566468621,50000 -6.108104607896362,55.6406629059073,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.088364401527898,55.74229566468621,50000 -6.289822180364184,55.756881402919,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.088364401527898,55.74229566468621,50000 -6.109338700059053,55.85409910040071,0</coordinates>
+			</LineString>
+		</Placemark>
+
+		<Placemark>
+			<name>ブルーハンガー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/thumbnail/1000x/9df78eab33525d08d6e5fb8d27136e95/b/l/blue-hanger-blended-malt-scotch-whisky-1.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ベリー・ブラザーズ・ラッド社によるブレンデッド・モルト。</br>
+リリース年によりブレンドするカスクが変わるのが特徴で6thリリースはグレンロセス、ブナハーブン、ボウモア2種類の計4種がブレンドされている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブルーハンガー6th</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.466431298486127</longitude>
+				<latitude>56.66641167056478</latitude>
+				<altitude>0</altitude>
+				<heading>-1.158025118417308</heading>
+				<tilt>0</tilt>
+				<range>269365.2516608434</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-4.861848800464016,56.63850554511144,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-4.861848800464016,56.63850554511144,50000 -3.214156870970466,57.52626125550717,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-4.861848800464016,56.63850554511144,50000 -6.125825130670158,55.8829087562954,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-4.861848800464016,56.63850554511144,50000 -6.289822180364184,55.756881402919,0</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>others.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>./whiskyIcon/icon6.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon6.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>others</name>
+		<open>1</open>
+		<Placemark>
+			<name>オールジョージ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://s3imgcdn.binnys.com/images/spiritslabels/31751L.jpg" width = "78" height = "200"/>
+</CENTER>
+<h2>
+　ミシガン州にあるグランドトラバーズ蒸留所。</br>
+有名なアメリカンチェリーやライ麦の産地に近いため、原料が豊富。</br>
+ノンチルフィルターでフレイバーに富んだバランスの良いライ・ウイスキー。</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・オールジョージ100％ストレートライウィスキー</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.55790240009605</longitude>
+				<latitude>44.72065589998639</latitude>
+				<altitude>0</altitude>
+				<heading>-6.75995091998256e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000013798448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-85.55790240009607,44.72065589998639,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>レッドブレスト</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn3.masterofmalt.com/whiskies/redbreast/redbreast-12-year-old-whiskey.jpg?square=1" width ="200" height = "200"/>
+</CENTER>
+<h2>
+　アイルランドの独特の製造法である。「ピュアポットスティル」を頑固一徹に守ってきた唯一のアイリッシュ・ウイスキー。</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・レッドブレスト12年</br>
+・レッドブレスト15年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-85.55790240029714</longitude>
+				<latitude>44.72065589999421</latitude>
+				<altitude>0</altitude>
+				<heading>-2.090829060807135e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00002943126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.165168899998122,52.41626809991607,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.165168899998122,52.41626809991607,50000 -8.165168899998122,51.91626809991607,0</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

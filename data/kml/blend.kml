@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>blend.kml</name>
+	<StyleMap id="msn_whiskyIcon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_whiskyIcon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_whiskyIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon4.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_whiskyIcon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>./whiskyIcon/icon4.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>blend</name>
+		<Placemark>
+			<name>スーパーニッカ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://ecx.images-amazon.com/images/I/41doLCdp8ZL._SL200_.jpg" width = "200" height = "200" />
+</CENTER>
+<h2>
+　余市と宮城峡のモルトと、カフェグレーンの三種類の原酒をブレンド。</br>
+ウッディ＆バニラの香りとスムースな口当たりが心地よく、ハイボールや水割りにしても腰砕けにならず、多様な飲み方で「ウイスキーの旨さ」が楽しめる。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・スーパーニッカ</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>141.3847368337528</longitude>
+				<latitude>40.6100277227451</latitude>
+				<altitude>0</altitude>
+				<heading>2.010226261205439</heading>
+				<tilt>0</tilt>
+				<range>752377.6187350508</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.9696007081024,40.30116262894448,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.9696007081024,40.30116262894448,50000 141.2926292988072,43.18554558183266,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>140.9696007081024,40.30116262894448,50000 140.649740099929,38.31200869989288,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>響</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.suntory.co.jp/news/2014/l_img/l_12233-1.jpg" width = "150" height = "200" />
+</CENTER>
+<h1>日本人が作る最高のブレンデッドウィスキーを</h1>
+<h2>
+　「日本人による日本人のための」ウイスキー造りにまい進してきたサントリーが、1989年に満を持して「最高峰のブレンデッド」と銘打って世に送り出したのが「響」。</br>
+山崎・白州の蒸溜所のシングルモルト、グレーンを絶妙の割合でブレンドする。</br>
+24面体にカットされたボディは24時間とともに24節気を表している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・響12年</br>
+・響17年</br>
+・響21年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>136.7916040963175</longitude>
+				<latitude>35.30454201794975</latitude>
+				<altitude>0</altitude>
+				<heading>-0.698329123584041</heading>
+				<tilt>0</tilt>
+				<range>625530.2881300587</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>136.9006532882505,35.59333885967256,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>136.9006532882505,35.59333885967256,50000 135.6743798449125,34.89236573232964,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>136.9006532882505,35.59333885967256,50000 138.3005342799123,35.82676410497587,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ボストンクラブ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.kakuyasu.co.jp/ec/images/goods/18215-b.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　富士御殿場蒸溜所のヘビーピートモルト原酒を中心にグレーンとブレンド。</br>
+本格的なスモーキーフレーバーが気軽に楽しめ、価格を超えた確かな品質を追求している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ボストンクラブ豊醇原酒</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>138.9068117959956</longitude>
+				<latitude>35.33641253633281</latitude>
+				<altitude>0</altitude>
+				<heading>0.005488085897396486</heading>
+				<tilt>0</tilt>
+				<range>174075.2054676157</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>138.7433064581601,35.10088698766352,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>138.7433064581601,35.10088698766352,50000 138.8972912005663,35.33793790005374,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ロバートブラウン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.kakuyasu.co.jp/ec/images/goods/00470-b.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　充分に熟成した富士御殿場蒸溜所のモルト原酒を中心に、グレーン原酒をブレンド。</br>
+原酒&原酒の調和した香りとまろやかな味わいが特徴の、富士御殿場蒸溜所創業ブランド。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ロバートブラウン</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>138.9201470396764</longitude>
+				<latitude>35.25532167030764</latitude>
+				<altitude>0</altitude>
+				<heading>0.01281932283246386</heading>
+				<tilt>0</tilt>
+				<range>174103.2117500903</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.1698125183987,35.08198934859372,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>139.1698125183987,35.08198934859372,50000 138.8972912005663,35.33793790005374,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ティーチャーズ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/004465.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ハイランドのアードモアをメイン原酒にブレンデッド。</br>
+45度以上の原酒を30種類以上ブレンドして作り上げたと言われ、ブレンダ―のウィリアム・ティーチャーがその出来ばえに、初めて自身の名を付けたという。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ティーチャーズ　ハイランドクリーム</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-3.76865781899547</longitude>
+				<latitude>57.4136924029934</latitude>
+				<altitude>0</altitude>
+				<heading>-5.70717786994995</heading>
+				<tilt>4.879334471356079</tilt>
+				<range>490887.3221733797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-0.8153544772326504,57.9916830322015,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-0.8153544772326504,57.9916830322015,50000 -2.745445450980499,57.35159145017752,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ディンプル</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://www.yourwines.com.au/asset/get/1331/e210016_dimple_12_year_old__4_.jpg?w=200" width = "107" height = "200"/>
+</CENTER>
+<h2>
+　グレンキンチーをキーモルトに数種類のハイランドモルトをブレンド。ブレンデッドの効いた個性的な存在。</br>
+ディンプル = えくぼをイメージしたくぼみのあるボトルデザインも愛らしい。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ディンプル12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-2.706313317235248</longitude>
+				<latitude>55.81800932378436</latitude>
+				<altitude>0</altitude>
+				<heading>-4.830788031086646</heading>
+				<tilt>4.87990827478835</tilt>
+				<range>490951.9211137671</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-1.126437378105226,56.0020694364737,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-1.126437378105226,56.0020694364737,50000 -2.89156955120887,55.89145328702872,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>デュワーズ</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://cdn4.masterofmalt.com/whiskies/dewars-blended-scotch-whisky.jpg?square=1" width = "200" height "200"/>
+</CENTER>
+<h1>アメリカで最も飲まれているブレンデッドウイスキー</h1>
+<h2>
+　アメリカでスコッチといえば「デュワーズ」と言われるほど世界有数の代表的なウイスキーブランド。</br>
+アバフェルディをキーモルトに40種類以上のモルトとグレーンをブレンドしており、バランスがよく、スパイシーでありながらマイルドな味わいを実現している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・デュワーズホワイトラベル</br>
+・デュワーズ18年</br>
+・デュワーズ12年</br>
+・デュワーズシグネチャ-</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-7.277687993484724</longitude>
+				<latitude>56.06649066841734</latitude>
+				<altitude>0</altitude>
+				<heading>-8.643408392470201</heading>
+				<tilt>4.351836519934651</tilt>
+				<range>672468.6623664652</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.003060095069023,56.35517470948707,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.003060095069023,56.35517470948707,50000 -3.850832999951849,56.62425500008819,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ブラック&amp;ホワイト</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.mynepshop.com/348-thickbox_default/black-white-regular-whisky-1000ml-mynepshopcom.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　ダルウィニー・グレンダラン・クライヌリッシュの3種をキーモルトに用。</br>
+約35種類のモルト&グレーンをブレンドし、マイルドで飲みやすい口当たりとなっている。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ブラック&ホワイト</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-4.146838475215902</longitude>
+				<latitude>57.27417582750592</latitude>
+				<altitude>0</altitude>
+				<heading>-6.027828320821445</heading>
+				<tilt>4.351524060537681</tilt>
+				<range>672010.663105772</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.405335661153286,58.34895678620213,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.405335661153286,58.34895678620213,50000 -4.239139986873196,56.93999520377908,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.405335661153286,58.34895678620213,50000 -3.128096699925486,57.43591750047974,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-6.405335661153286,58.34895678620213,50000 -3.869264729565376,58.02351971069963,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>アイラミスト</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/540/blend_isl7.jpg" width = "150" height = "200"/>
+</CENTER>
+<h1>アイラの香り漂うブレンデッド・ウイスキー</h1>
+<h2>
+　1922年に誕生した、その名の通りアイラ色が強い個性的なブレンデッド。</br>
+多くの人々に親しまれているラフロイグをキーモルトに、スペイサイドのシングルモルトとグレーン・ウィスキーをブレンド。</br>
+アイラの特徴であるピート香、スモーク香、潮味とスペイサイドのスムーズで甘い風味が見事に調和している。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・アイラミスト・デラックス</br>
+・アイラミスト8年</br>
+・アイラミスト12年</br>
+・アイラミスト17年</br>
+・アイラミストピーテッドリザーブ</br>
+</p>]]></description>
+			<Camera>
+				<longitude>-6.083882460253543</longitude>
+				<latitude>55.61247097710847</latitude>
+				<altitude>201928.1000096595</altitude>
+				<heading>13.64409825683863</heading>
+				<tilt>0.03873875302373135</tilt>
+				<roll>16.83094246934941</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-7.093020145197685,55.36484416727599,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-7.093020145197685,55.36484416727599,50000 -6.152203999977016,55.63005689994425,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ミドルトン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://media2.caskers.com/media/catalog/product/cache/1/image/8098fa9a8bdf2c28760c2d2c80a1898c/m/i/midleton-very-rare-irish-whiskey2.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アイルランドが誇るミドルトン蒸留所が、良質の樽を厳選して樽詰めしたウイスキー。</br>
+バーボン樽で12年以上熟成の原酒をブレンド。</br>
+スモーキー香がまったくない華やかな芳香が味わえる。</br>
+少量のグレーンウイスキーとブレンド。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ミドルトンヴェリーレア</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-8.165168710962774</longitude>
+				<latitude>51.91626834429849</latitude>
+				<altitude>0</altitude>
+				<heading>-1.278506823566486e-007</heading>
+				<tilt>0</tilt>
+				<range>1019.681422046274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.165168710962774,51.91626834429849,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ジェムソン</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://cdn.liquor.com/wp-content/uploads/2014/12/Jameson-Irish-Whiskey-Original.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アイリッシュを代表する銘柄</br>
+クセのないスムーズな飲み口、やや甘みを感じる味わい。</br>
+飲み方を選ばず非常に飲みやすいブレンデッド・アイリッシュウイスキー
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・ジェムソンスタンダード</br>
+・ジェムソン18年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-8.16516889999812</longitude>
+				<latitude>51.91626809991607</latitude>
+				<altitude>0</altitude>
+				<heading>1.481343342891632e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000156428396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-7.765168899998122,51.91626809991607,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-7.665168899998122,51.91626809991607,50000 -8.165168899998122,51.91626809991607,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>タラモアデュー</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://img.thewhiskyexchange.com/540/irish_tul1.jpg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　ライトな口当たりのアイリッシュウイスキーとして有名。「繊細で滑らかで快いモルティネスがある」と専門家の間でも高く評価されています。</br>
+原料大麦の穏やかな風味がきいているユニークな1本。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・タラモアデュー</br>
+・タラモアデュー12年</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-8.16516889999812</longitude>
+				<latitude>51.91626809991607</latitude>
+				<altitude>0</altitude>
+				<heading>1.481343342891632e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000156428396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.465168899998122,51.91626809991607,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<LineString>
+				<tessellate>0</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-8.465168899998122,51.91626809991607,50000 -8.165168899998122,51.91626809991607,0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>キルべガン</name>
+			<description><![CDATA[<CENTER>
+<img src = "https://specsonline.com/wp-content/uploads/009674993030.jpg" width = "200" height = "200"/>
+</CENTER>
+<h2>
+　アイルランド最古の蒸留所といわれるブルスナ蒸留所の代表ブランドを復活させたもの。</br>
+スムーズで飲みやすく、ライトな風味のブレンデッドウイスキー。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・キルべガン</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-7.502819599825324</longitude>
+				<latitude>53.36929519975344</latitude>
+				<altitude>0</altitude>
+				<heading>1.399356594590207e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000131174332</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-7.502819599825324,53.36929519975343,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>クラウンローヤル</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/001487-A.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　軽快な口当たりのプレミアム・カナディアン・ウイスキー。</br>
+1939年、イギリスのジョージ6世が、英国王として初のカナダ公式訪問の際、献上品として生まれたもの。</br>
+現在はギムリ蒸留所にて製造。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・クラウンローヤル</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-97.00916057475463</longitude>
+				<latitude>50.65187520356725</latitude>
+				<altitude>0</altitude>
+				<heading>-10.94740543301491</heading>
+				<tilt>10.86660252561343</tilt>
+				<range>3706.875893844397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.00916057475463,50.65187520356725,50000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>カナディアンクラブ</name>
+			<description><![CDATA[<CENTER>
+<img src = "http://www.lcbo.com/content/dam/lcbo/products/000042.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" width = "150" height = "200"/>
+</CENTER>
+<h2>
+　「C.C.」の略称で知られるカナディアンウイスキーの代表格。</br>
+ライ麦主体のフレーバーウイスキーによる軽やかで華やかな香りを持ち、ライト&スムーズな風味が特徴。
+</h2>
+</br>
+<h3>シリーズ</h3>
+<p>
+・カナディアンクラブ</br>
+・カナディアンクラブブラック</br>
+</p>]]></description>
+			<LookAt>
+				<longitude>-83.01240529994792</longitude>
+				<latitude>42.32603699996933</latitude>
+				<altitude>0</altitude>
+				<heading>3.505130286706868e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000018234562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_whiskyIcon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.01240529994793,42.32603699996932,50000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
